@@ -1,0 +1,2585 @@
+[
+  {
+    "id": "article_0000",
+    "title": "AMD acquires World Labs AI from Fei-Fei Li for $8B",
+    "source": "Crypto Briefing",
+    "published_at": "2026-09-28T20:11:05Z",
+    "url": "https://cryptobriefing.com/amd-acquires-world-labs-ai/"
+  },
+  {
+    "id": "article_0001",
+    "title": "This AI startup has 14 employees and a $10B valuation",
+    "source": "Biztoc.com",
+    "published_at": "2026-09-28T20:59:24Z",
+    "url": "https://biztoc.com/x/b2cc4a36f583dcb3"
+  },
+  {
+    "id": "article_0002",
+    "title": "This AI startup has only 14 employees \u2014 and a fresh $10 billion valuation",
+    "source": "Biztoc.com",
+    "published_at": "2026-09-28T22:12:22Z",
+    "url": "https://biztoc.com/x/99b59f2a3bad22f9"
+  },
+  {
+    "id": "article_0003",
+    "title": "ANTHROPIC IPO prospectus shows surging costs...",
+    "source": "Yahoo Entertainment",
+    "published_at": "2026-09-28T23:52:36Z",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-anthropics-ipo-prospectus-shows-231722972.html"
+  },
+  {
+    "id": "article_0004",
+    "title": "Anthropic's path from AI startup to industry-defining IPO",
+    "source": "The Times of India",
+    "published_at": "2026-09-29T02:40:08Z",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-path-from-ai-startup-to-industry-defining-ipo/articleshow/134554374.cms"
+  },
+  {
+    "id": "article_0005",
+    "title": "AMD to acquire Fei-Fei Li's World Labs in $8.2 billion bet on physical AI",
+    "source": "Business Standard",
+    "published_at": "2026-09-29T03:22:31Z",
+    "url": "https://www.business-standard.com/world-news/amd-to-acquire-fei-fei-li-s-world-labs-in-8-2-billion-bet-on-physical-ai-126092900116_1.html"
+  },
+  {
+    "id": "article_0006",
+    "title": "India\u2019s early-stage AI startups get term sheets faster as competition heats up",
+    "source": "Livemint",
+    "published_at": "2026-09-29T05:21:58Z",
+    "url": "https://www.livemint.com/companies/start-ups/india-ai-startups-funding-term-sheets-investment-11790650392000.html"
+  },
+  {
+    "id": "article_0007",
+    "title": "Anthropic\u2019s IPO prospectus shows sweeping AI vision and surging costs",
+    "source": "New York Post",
+    "published_at": "2026-09-29T09:02:39Z",
+    "url": "https://nypost.com/2026/09/29/business/anthropics-ipo-prospectus-shows-sweeping-ai-vision-and-surging-costs/"
+  },
+  {
+    "id": "article_0008",
+    "title": "AI startup EliseAI valued at $4 billion in latest funding round",
+    "source": "CNA",
+    "published_at": "2026-09-29T11:17:56Z",
+    "url": "https://www.channelnewsasia.com/business/ai-startup-eliseai-valued-4-billion-in-latest-funding-round-6418546"
+  },
+  {
+    "id": "article_0009",
+    "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
+    "source": "The Verge",
+    "published_at": "2026-09-29T11:48:27Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
+  },
+  {
+    "id": "article_0010",
+    "title": "Reco raises $55M as AI agent security startups crowd the market | TechCrunch",
+    "source": "TechCrunch",
+    "published_at": "2026-09-29T12:31:33Z",
+    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+  },
+  {
+    "id": "article_0011",
+    "title": "Cognition hires Alex Stamos as chief security officer",
+    "source": "Crypto Briefing",
+    "published_at": "2026-09-29T14:23:43Z",
+    "url": "https://cryptobriefing.com/cognition-hires-alex-stamos-cso/"
+  },
+  {
+    "id": "article_0012",
+    "title": "Leaked Anthropic IPO Prospectus Gives Wall Street an Early Look at How AI Could Go Off the Rails",
+    "source": "Gizmodo.com",
+    "published_at": "2026-09-29T17:00:29Z",
+    "url": "https://gizmodo.com/leaked-anthropic-ipo-prospectus-gives-wall-street-an-early-look-at-how-ai-could-kill-us-all-2000818911"
+  },
+  {
+    "id": "article_0013",
+    "title": "World Labs\u2019 Fei-Fei Li Is Worth $1.6 Billion After AMD Deal",
+    "source": "Livemint",
+    "published_at": "2026-09-29T18:38:26Z",
+    "url": "https://www.livemint.com/companies/world-labs-fei-fei-li-is-worth-1-6-billion-after-amd-deal-11790707106751.html"
+  },
+  {
+    "id": "article_0014",
+    "title": "Stability AI CEO: In One Year, Our AI Tools Will Be Essential to Making All Music",
+    "source": "TheWrap",
+    "published_at": "2026-09-29T20:00:36Z",
+    "url": "https://www.thewrap.com/industry-news/tech/stability-ai-ceo-in-one-year-our-ai-tools-will-be-essential-to-making-all-music/"
+  },
+  {
+    "id": "article_0015",
+    "title": "Anthropic warns of legal risks from rogue AI agents ahead of IPO: Reuters",
+    "source": "Crypto Briefing",
+    "published_at": "2026-09-29T22:48:17Z",
+    "url": "https://cryptobriefing.com/anthropic-warns-of-legal-risks-from-rogue-ai-agents-ahead-of-ipo-reuters/"
+  },
+  {
+    "id": "article_0016",
+    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+    "source": "Biztoc.com",
+    "published_at": "2026-09-30T00:58:13Z",
+    "url": "https://biztoc.com/x/ed88d8cc1c7169d2"
+  },
+  {
+    "id": "article_0017",
+    "title": "Meet Noah Shinn: The 23-year-old college dropout whose viral AI assistant is emerging as a new challenger to Mark Zuckerberg\u2019s Meta",
+    "source": "Fortune",
+    "published_at": "2026-09-30T07:04:00Z",
+    "url": "https://fortune.com/2026/09/30/noah-shinn-instinct-ai-assistant-meta-muse-alexandr-wang-tech-series-c-ai-agent-mark-zuckerberg/"
+  },
+  {
+    "id": "article_0018",
+    "title": "Anthropic IPO explained: $2 trillion valuation, ballooning net loss, AI risks and other details in leaked IPO papers",
+    "source": "The Times of India",
+    "published_at": "2026-09-30T08:45:05Z",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms"
+  },
+  {
+    "id": "article_0019",
+    "title": "Zenithon raises $10M to build world models for extreme physics",
+    "source": "Biztoc.com",
+    "published_at": "2026-09-30T09:44:03Z",
+    "url": "https://biztoc.com/x/d1bfde2dc82ce3f6"
+  },
+  {
+    "id": "article_0020",
+    "title": "ElevenLabs doubles valuation to $22B in $300M tender offer",
+    "source": "Crypto Briefing",
+    "published_at": "2026-09-30T15:23:22Z",
+    "url": "https://cryptobriefing.com/elevenlabs-doubles-valuation-22b-tender-offer/"
+  },
+  {
+    "id": "article_0021",
+    "title": "Instinct's new product recommendations are giving some users the ick | TechCrunch",
+    "source": "TechCrunch",
+    "published_at": "2026-09-30T15:59:03Z",
+    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
+  },
+  {
+    "id": "article_0022",
+    "title": "How AI is becoming Hollywood\u2019s newest star, changing work on and off camera",
+    "source": "Fortune",
+    "published_at": "2026-09-30T16:59:20Z",
+    "url": "https://fortune.com/2026/09/30/cio-intelligence-sept-30/"
+  },
+  {
+    "id": "article_0023",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "source": "Biztoc.com",
+    "published_at": "2026-09-30T18:31:51Z",
+    "url": "https://biztoc.com/x/e6b074fcf77b67ed"
+  },
+  {
+    "id": "article_0024",
+    "title": "ElevenLabs AI Startup Valued at $22 Billion After Tender Offer",
+    "source": "Billboard",
+    "published_at": "2026-09-30T19:43:05Z",
+    "url": "http://www.billboard.com/pro/elevenlabs-ai-startup-valued-22-billion-tender-offer/"
+  },
+  {
+    "id": "article_0025",
+    "title": "A boardroom exit has two multibillion-dollar AI startups trading accusations",
+    "source": "Business Insider",
+    "published_at": "2026-09-30T21:09:09Z",
+    "url": "https://www.businessinsider.com/ai-coding-rivals-factory-and-cognition-feud-over-top-hire-2026-9#article"
+  },
+  {
+    "id": "article_0026",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "source": "Biztoc.com",
+    "published_at": "2026-09-30T21:17:05Z",
+    "url": "https://biztoc.com/x/3bfec82be08ddac5"
+  },
+  {
+    "id": "article_0027",
+    "title": "Osavul raises \u20ac8.5M Series A to expand hybrid threat intelligence",
+    "source": "The Next Web",
+    "published_at": "2026-10-01T08:59:40Z",
+    "url": "https://thenextweb.com/news/osavul-raises-e8-5m-series-a-to-expand-hybrid-threat-intelligence"
+  },
+  {
+    "id": "article_0028",
+    "title": "I Tested the Three Big Voice Assistants to See Who\u2019s Best at Predicting Weather",
+    "source": "CNET",
+    "published_at": "2026-10-01T10:00:08Z",
+    "url": "https://www.cnet.com/home/smart-home/tested-ai-voice-assistants-best-weather-prediction/"
+  },
+  {
+    "id": "article_0029",
+    "title": "Google Gemini Adds UTM Parameters For Referral Attribution via @sejournal, @martinibuster",
+    "source": "Search Engine Journal",
+    "published_at": "2026-10-01T12:15:03Z",
+    "url": "https://www.searchenginejournal.com/google-gemini-adds-utm-parameters-for-referral-attribution/591754/"
+  },
+  {
+    "id": "article_0030",
+    "title": "Inside Gemini 4 Argon, the model Google is testing on its own infrastructure first",
+    "source": "Securityaffairs.com",
+    "published_at": "2026-10-01T13:33:40Z",
+    "url": "https://securityaffairs.com/200187/ai/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html"
+  },
+  {
+    "id": "article_0031",
+    "title": "Exabeam brings AI-assisted security investigations to data that must stay on-premises",
+    "source": "Help Net Security",
+    "published_at": "2026-10-01T13:50:04Z",
+    "url": "https://www.helpnetsecurity.com/2026/10/01/exabeam-agentic-soc/"
+  },
+  {
+    "id": "article_0032",
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents | TechCrunch",
+    "source": "TechCrunch",
+    "published_at": "2026-10-01T14:00:30Z",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+  },
+  {
+    "id": "article_0033",
+    "title": "A look back before we look forward: A Developer Survey retrospective",
+    "source": "Stackoverflow.blog",
+    "published_at": "2026-10-01T14:47:33Z",
+    "url": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/"
+  },
+  {
+    "id": "article_0034",
+    "title": "Man in Singapore faces 10 years in jail for AI crocodile image",
+    "source": "Popular Science",
+    "published_at": "2026-10-01T16:00:00Z",
+    "url": "https://www.popsci.com/technology/ai-crocodile-jail-singapore/"
+  },
+  {
+    "id": "article_0035",
+    "title": "Google Makes New Gemini 4 Argon Available for Cybersecurity Experts",
+    "source": "Thurrott.com",
+    "published_at": "2026-10-01T16:14:48Z",
+    "url": "https://www.thurrott.com/a-i/342295/google-makes-new-gemini-4-argon-available-for-cybersecurity-experts"
+  },
+  {
+    "id": "article_0036",
+    "title": "Google grapples with employee skepticism about new Gemini model",
+    "source": "Business Standard",
+    "published_at": "2026-10-01T18:10:14Z",
+    "url": "https://www.business-standard.com/world-news/google-grapples-with-employee-skepticism-about-new-gemini-model-126100101555_1.html"
+  },
+  {
+    "id": "article_0037",
+    "title": "Man Facing Up to Three Years in Prison After Sharing AI Slop That Leads to Mass Panic",
+    "source": "Futurism",
+    "published_at": "2026-10-01T20:57:16Z",
+    "url": "https://futurism.com/artificial-intelligence/singapore-man-ai-slop-misinformation-three-years-prison-panic"
+  },
+  {
+    "id": "article_0038",
+    "title": "Report: Anthropic targets pre-Thanksgiving IPO launch, despite warning of AI\u2019s \u2018existential risks\u2019",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-01T23:43:54Z",
+    "url": "https://siliconangle.com/2026/10/01/report-anthropic-targets-pre-thanksgiving-ipo-launch-despite-warning-of-ais-existential-risks/"
+  },
+  {
+    "id": "article_0039",
+    "title": "Zhou Yuxiang hired food delivery riders to sell AI to factories. Now he\u2019s chasing China\u2019s industrial AI breakthrough",
+    "source": "Fortune",
+    "published_at": "2026-10-02T07:00:00Z",
+    "url": "https://fortune.com/2026/10/02/black-lake-yuxiang-zhou-ai-china-google-moment/"
+  },
+  {
+    "id": "article_0040",
+    "title": "Meta Muse has already broken a record: it beats all competitors in data collection, Surfshark warns",
+    "source": "TechRadar",
+    "published_at": "2026-10-02T09:47:06Z",
+    "url": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns"
+  },
+  {
+    "id": "article_0041",
+    "title": "From coding to cyber defence: What makes Google's Gemini 4 Argon different",
+    "source": "Business Standard",
+    "published_at": "2026-10-02T10:08:25Z",
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/from-coding-to-cyber-defence-what-makes-google-s-gemini-4-argon-different-126100200530_1.html"
+  },
+  {
+    "id": "article_0042",
+    "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+    "source": "CNBC",
+    "published_at": "2026-10-02T11:00:01Z",
+    "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html"
+  },
+  {
+    "id": "article_0043",
+    "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-02T14:00:15Z",
+    "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/"
+  },
+  {
+    "id": "article_0044",
+    "title": "Anthropic IPO Filing Outlines Government Action Risks for Commercial Ecosystem",
+    "source": "pymnts.com",
+    "published_at": "2026-10-02T15:40:29Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-filing-outlines-government-action-risks-for-commercial-ecosystem/"
+  },
+  {
+    "id": "article_0045",
+    "title": "iOS 27\u2019s Siri gets one thing very right that other AI assistants get wrong",
+    "source": "9to5Mac",
+    "published_at": "2026-10-02T19:26:34Z",
+    "url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/"
+  },
+  {
+    "id": "article_0046",
+    "title": "Can AI Fix Your Chaotic Inbox? I Unleashed It On 200,000 Unread Emails",
+    "source": "CNET",
+    "published_at": "2026-10-02T19:43:34Z",
+    "url": "https://www.cnet.com/tech/services-and-software/ai-fix-your-inbox-unread-emails/"
+  },
+  {
+    "id": "article_0047",
+    "title": "Google AI Plus and free users are losing access to Gemini models, and it's happening very soon",
+    "source": "XDA Developers",
+    "published_at": "2026-10-03T05:56:52Z",
+    "url": "https://www.xda-developers.com/google-ai-plus-users-are-losing-access-to-geminis-pro-model-and-its-happening-very-soon/"
+  },
+  {
+    "id": "article_0048",
+    "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+    "source": "Search Engine Journal",
+    "published_at": "2026-10-03T12:00:26Z",
+    "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/"
+  },
+  {
+    "id": "article_0049",
+    "title": "Googlebooks are bringing Gemini Intelligence to premium laptops, but is the cost worth it for these Android based-devices compared to Chromebooks?",
+    "source": "TechRadar",
+    "published_at": "2026-10-03T13:00:00Z",
+    "url": "https://www.techradar.com/computing/chromebooks/googlebook-vs-chromebook"
+  },
+  {
+    "id": "article_0050",
+    "title": "The Consumer AI Agent Race: Five Platforms, Three Pricing Models, One Winner",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-03T13:28:01Z",
+    "url": "https://biztoc.com/x/8464eda68d66a6bb"
+  },
+  {
+    "id": "article_0051",
+    "title": "Researcher, Dartmouth Professor and Provost Face Accusations of Secretly Using AI",
+    "source": "Slashdot.org",
+    "published_at": "2026-10-03T19:51:00Z",
+    "url": "https://science.slashdot.org/story/26/10/03/1948230/researcher-dartmouth-professor-and-provost-face-accusations-of-secretly-using-ai"
+  },
+  {
+    "id": "article_0052",
+    "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
+    "source": "BleepingComputer",
+    "published_at": "2026-10-03T23:12:34Z",
+    "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+  },
+  {
+    "id": "article_0053",
+    "title": "Google Gemini sets new limits for free users: What changes, which features will remain available; check",
+    "source": "The Times of India",
+    "published_at": "2026-10-04T03:15:12Z",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/google-gemini-sets-new-limits-for-free-users-what-changes-which-features-will-remain-available-check/articleshow/134669092.cms"
+  },
+  {
+    "id": "article_0054",
+    "title": "Michael Burry Moves Up Timeline for AI Bubble Short, Switches to Put Options",
+    "source": "Naturalnews.com",
+    "published_at": "2026-10-04T06:00:00Z",
+    "url": "https://www.naturalnews.com/2026-10-04-burry-moves-up-timeline-ai-bubble-short.html"
+  },
+  {
+    "id": "article_0055",
+    "title": "From 'lower middle class' Tamil family, he missed IIT Madras CSE by 0.01, was rejected by MIT. Today, he is the CEO of $20 billion AI startup",
+    "source": "The Times of India",
+    "published_at": "2026-10-04T06:01:37Z",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/from-lower-middle-class-tamil-family-he-missed-iit-madras-cse-by-0-01-was-rejected-by-mit-today-he-is-the-ceo-of-20-billion-ai-startup/articleshow/134670106.cms"
+  },
+  {
+    "id": "article_0056",
+    "title": "Silicon Valley founders' hottest funding source: the Bank of Best Friends",
+    "source": "Business Insider",
+    "published_at": "2026-10-05T08:07:01Z",
+    "url": "https://www.businessinsider.com/silicon-valley-founders-funding-bank-best-friends-2026-10#article"
+  },
+  {
+    "id": "article_0057",
+    "title": "Hedge fund giant Bridgewater emerges as advocate for \u2018little guy\u2019 in AI debate \u2014 pushes taxes to boost \u2018citizen equity\u2019",
+    "source": "New York Post",
+    "published_at": "2026-10-05T11:00:00Z",
+    "url": "https://nypost.com/2026/10/05/business/hedge-fund-giant-bridgewater-emerges-as-advocate-for-little-guy-in-ai-debate/"
+  },
+  {
+    "id": "article_0058",
+    "title": "Beware the Rise of the \u2018Pentagon-Silicon Complex\u2019",
+    "source": "Gizmodo.com",
+    "published_at": "2026-10-05T13:15:46Z",
+    "url": "https://gizmodo.com/beware-the-rise-of-the-pentagon-silicon-complex-2000815450"
+  },
+  {
+    "id": "article_0059",
+    "title": "Google Gemini Will Soon Limit Model Access for Free and Plus Users",
+    "source": "Thurrott.com",
+    "published_at": "2026-10-05T14:12:56Z",
+    "url": "https://www.thurrott.com/a-i/342429/google-gemini-will-soon-limit-model-access-for-free-and-plus-users"
+  },
+  {
+    "id": "article_0060",
+    "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+    "source": "Internet",
+    "published_at": "2026-10-05T14:20:43Z",
+    "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html"
+  },
+  {
+    "id": "article_0061",
+    "title": "My students use Gemini to brainstorm creative ideas.",
+    "source": "Blog.google",
+    "published_at": "2026-10-05T16:00:00Z",
+    "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/"
+  },
+  {
+    "id": "article_0062",
+    "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
+    "source": "Blog.google",
+    "published_at": "2026-10-05T16:00:00Z",
+    "url": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/"
+  },
+  {
+    "id": "article_0063",
+    "title": "Gemini helps me bring hands-on learning into the classroom.",
+    "source": "Blog.google",
+    "published_at": "2026-10-05T16:00:00Z",
+    "url": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/"
+  },
+  {
+    "id": "article_0064",
+    "title": "Gemini helps me give a voice to students who cannot write.",
+    "source": "Blog.google",
+    "published_at": "2026-10-05T16:00:00Z",
+    "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/"
+  },
+  {
+    "id": "article_0065",
+    "title": "Americans Turn to AI Chatbots to Decide How to Vote in Midterm Elections",
+    "source": "Breitbart News",
+    "published_at": "2026-10-05T17:07:14Z",
+    "url": "https://www.breitbart.com/tech/2026/10/05/americans-turn-to-ai-chatbots-to-decide-how-to-vote-in-midterm-elections/"
+  },
+  {
+    "id": "article_0066",
+    "title": "Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost | TechCrunch",
+    "source": "TechCrunch",
+    "published_at": "2026-10-05T19:35:32Z",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+  },
+  {
+    "id": "article_0067",
+    "title": "Menlo Ventures backs Factory days after Vinod Khosla\u2019s public jab",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-05T19:41:39Z",
+    "url": "https://cryptobriefing.com/menlo-ventures-backs-factory-khosla-criticism/"
+  },
+  {
+    "id": "article_0068",
+    "title": "Reflection AI unveils Beam, a 501B-parameter open model due this month",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-05T19:48:55Z",
+    "url": "https://cryptobriefing.com/reflection-ai-beam-501b-open-model/"
+  },
+  {
+    "id": "article_0069",
+    "title": "Nvidia-backed Reflection unveils Beam, its first open-weight model",
+    "source": "The Next Web",
+    "published_at": "2026-10-05T22:01:57Z",
+    "url": "https://thenextweb.com/news/reflection-ai-beam-open-weight-model"
+  },
+  {
+    "id": "article_0070",
+    "title": "Google Gemini 4 Argon sparks internal doubts",
+    "source": "Digitimes",
+    "published_at": "2026-10-06T00:14:10Z",
+    "url": "https://www.digitimes.com/news/a20261005PD247/google-gemini-flagship-performance-development.html"
+  },
+  {
+    "id": "article_0071",
+    "title": "NVIDIA-Backed Reflection Used 10,500x GB300 GPUs And 46.4 Million Sandboxes Per Day For 4 Weeks To Train Beam, A 501B Open-Weight Model That Is Insanely Efficient",
+    "source": "Wccftech",
+    "published_at": "2026-10-06T00:32:12Z",
+    "url": "https://wccftech.com/nvidia-backed-reflection-used-10500x-gb300-gpus-and-46-4-million-sandboxes-per-day-for-4-weeks-to-train-beam-a-501b-open-weight-model-that-is-insanely-efficient/"
+  },
+  {
+    "id": "article_0072",
+    "title": "Nvidia backs startup Reactor as buzz grows for world models",
+    "source": "Fortune",
+    "published_at": "2026-10-06T00:42:01Z",
+    "url": "https://fortune.com/2026/10/05/nvidia-backs-startup-reactor-buzz-grows-world-models/"
+  },
+  {
+    "id": "article_0073",
+    "title": "AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-06T00:43:54Z",
+    "url": "https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/"
+  },
+  {
+    "id": "article_0074",
+    "title": "Reflection AI debuts open-source Beam model with 501B parameters",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-06T00:46:33Z",
+    "url": "https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/"
+  },
+  {
+    "id": "article_0075",
+    "title": "Nvidia joins Reactor\u2019s Series A as world model startup reaches $74 million",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-06T01:23:20Z",
+    "url": "https://cryptobriefing.com/nvidia-backs-reactor-world-models-funding/"
+  },
+  {
+    "id": "article_0076",
+    "title": "Moonshot AI hits $50 billion valuation, eyes Hong Kong IPO in early 2027",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-06T02:49:18Z",
+    "url": "https://cryptobriefing.com/moonshot-ai-50-billion-hong-kong-ipo/"
+  },
+  {
+    "id": "article_0077",
+    "title": "Kuaishou\u2019s Kling AI lines up CICC, Goldman Sachs and UBS for a $1 billion Hong Kong IPO",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-06T03:09:00Z",
+    "url": "https://cryptobriefing.com/kuaishou-kling-ai-hong-kong-ipo/"
+  },
+  {
+    "id": "article_0078",
+    "title": "Moonshot said to eye early 2027 IPO after value hits $50 billion",
+    "source": "Bloomberg",
+    "published_at": "2026-10-06T03:24:46Z",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion"
+  },
+  {
+    "id": "article_0079",
+    "title": "Moonshot AI eyes Hong Kong IPO in early 2027 at $50B valuation",
+    "source": "The Straits Times",
+    "published_at": "2026-10-06T03:41:01Z",
+    "url": "https://www.straitstimes.com/business/moonshot-said-to-eye-hong-kong-ipo-in-early-2027-after-value-hits-us50-billion"
+  },
+  {
+    "id": "article_0080",
+    "title": "Using Google Gemini for Free? You're Losing Some Models Later This Week",
+    "source": "PCMag.com",
+    "published_at": "2026-10-06T04:14:36Z",
+    "url": "https://me.pcmag.com/en/ai/38241/using-google-gemini-for-free-youre-losing-some-models-later-this-week"
+  },
+  {
+    "id": "article_0081",
+    "title": "Florida Takes ChatGPT Battle to Court with Push for Mandatory Age Checks",
+    "source": "Naturalnews.com",
+    "published_at": "2026-10-06T06:00:00Z",
+    "url": "https://www.naturalnews.com/2026-10-06-florida-chatgpt-battle-court-mandatory-age-checks.html"
+  },
+  {
+    "id": "article_0082",
+    "title": "DeepSeek to raise at least $12 billion in Tencent-backed funding",
+    "source": "The Times of India",
+    "published_at": "2026-10-06T06:11:02Z",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding/articleshow/134725196.cms"
+  },
+  {
+    "id": "article_0083",
+    "title": "What is Beam? The buzzy American AI model being called the 'DeepSeek of the West'",
+    "source": "Business Insider",
+    "published_at": "2026-10-06T06:31:01Z",
+    "url": "https://www.businessinsider.com/what-is-beam-american-ai-model-deepseek-of-the-west-2026-10#article"
+  },
+  {
+    "id": "article_0084",
+    "title": "The Deployment State: How China Is Building AI Agent Infrastructure While the US Debates Containment",
+    "source": "Forkast.news",
+    "published_at": "2026-10-06T08:26:34Z",
+    "url": "https://forkast.news/the-deployment-state-how-china-is-building-ai-agent-infrastructure-while-the-us-debates-containment/"
+  },
+  {
+    "id": "article_0085",
+    "title": "Using AI? Keep Teachers in the Driver\u2019s Seat",
+    "source": "Coolcatteacher.com",
+    "published_at": "2026-10-06T11:00:00Z",
+    "url": "https://www.coolcatteacher.com/e1002/"
+  },
+  {
+    "id": "article_0086",
+    "title": "AI startups shift to cheaper Chinese models as US firms face price pressure",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-06T11:11:43Z",
+    "url": "https://cryptobriefing.com/ai-startups-shift-cheaper-chinese-models/"
+  },
+  {
+    "id": "article_0087",
+    "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does everything I need",
+    "source": "XDA Developers",
+    "published_at": "2026-10-06T11:30:18Z",
+    "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/"
+  },
+  {
+    "id": "article_0088",
+    "title": "19-year-old Zain Javaid's startup called Ghost builds an AI computer without screen; the 'brain in a box' can be the next big PC idea",
+    "source": "The Times of India",
+    "published_at": "2026-10-06T11:57:22Z",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/19-year-old-zain-javaids-startup-called-ghost-builds-an-ai-computer-without-screen-the-brain-in-a-box-can-be-the-next-big-pc-idea/articleshow/134738196.cms"
+  },
+  {
+    "id": "article_0089",
+    "title": "Moonshot eyes early 2027 Hong Kong IPO after valuation hits $50 billion",
+    "source": "Business Standard",
+    "published_at": "2026-10-06T12:32:02Z",
+    "url": "https://www.business-standard.com/technology/tech-news/moonshot-eyes-early-2027-hong-kong-ipo-after-valuation-hits-50-billion-126100600918_1.html"
+  },
+  {
+    "id": "article_0090",
+    "title": "France's Mistral launches AI model it says outperforms some Chinese rivals",
+    "source": "CNA",
+    "published_at": "2026-10-06T12:59:58Z",
+    "url": "https://www.channelnewsasia.com/business/frances-mistral-launches-ai-model-it-says-outperforms-some-chinese-rivals-6435786"
+  },
+  {
+    "id": "article_0091",
+    "title": "Mistral debuts Large 4 \u2018Le Chonk', a 1-trillion parameter text output model with high benchmarks planned for open weights release",
+    "source": "VentureBeat",
+    "published_at": "2026-10-06T13:00:35Z",
+    "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release"
+  },
+  {
+    "id": "article_0092",
+    "title": "Europe\u2019s Mistral launches Large 4 to challenge China\u2019s lead in open AI models",
+    "source": "The Next Web",
+    "published_at": "2026-10-06T13:00:45Z",
+    "url": "https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model"
+  },
+  {
+    "id": "article_0093",
+    "title": "Western AI models challenge China\u2019s dominance with open-weight frameworks",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-06T13:13:17Z",
+    "url": "https://cryptobriefing.com/western-ai-models-challenge-chinas-dominance-with-open-weight-frameworks/"
+  },
+  {
+    "id": "article_0094",
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-06T13:22:23Z",
+    "url": "https://biztoc.com/x/ed7091c3fb9b7be9"
+  },
+  {
+    "id": "article_0095",
+    "title": "AI Assistant Market worth $26.75 billion by 2031 - Report by MarketsandMarkets\u2122",
+    "source": "PRNewswire",
+    "published_at": "2026-10-06T14:01:00Z",
+    "url": "https://www.prnewswire.com/news-releases/ai-assistant-market-worth-26-75-billion-by-2031--report-by-marketsandmarkets-302899506.html"
+  },
+  {
+    "id": "article_0096",
+    "title": "France\u2019s Mistral unveils latest model in sovereign AI push",
+    "source": "Digital Journal",
+    "published_at": "2026-10-06T14:50:10Z",
+    "url": "https://www.digitaljournal.com/article/frances-mistral-unveils-latest-model-in-sovereign-ai-push/"
+  },
+  {
+    "id": "article_0097",
+    "title": "Google Removes Free Access To Gemini Flash And Pro On October 9 - Engadget",
+    "source": "Slashdot.org",
+    "published_at": "2026-10-06T14:52:56Z",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186051308"
+  },
+  {
+    "id": "article_0098",
+    "title": "As AI reshapes the consumer journey, L\u2019Or\u00e9al is rethinking its marketing\u00a0engine",
+    "source": "Fortune",
+    "published_at": "2026-10-06T15:14:43Z",
+    "url": "https://fortune.com/2026/10/06/as-ai-reshapes-the-consumer-journey-loreal-is-rethinking-its-marketing-engine/"
+  },
+  {
+    "id": "article_0099",
+    "title": "Mirror Particle is building a \u2018world model\u2019 of human behavior | TechCrunch",
+    "source": "TechCrunch",
+    "published_at": "2026-10-06T17:02:43Z",
+    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
+  },
+  {
+    "id": "article_0100",
+    "title": "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+    "source": "Theregister.com",
+    "published_at": "2026-10-06T18:03:25Z",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/06/european-ai-flag-bearer-mistrals-new-open-weights-model-is-le-chonk/5301443"
+  },
+  {
+    "id": "article_0101",
+    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    "source": "Internet",
+    "published_at": "2026-10-06T18:38:55Z",
+    "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html"
+  },
+  {
+    "id": "article_0102",
+    "title": "Finding value from AI in big companies comes down to people, not technology",
+    "source": "Fortune",
+    "published_at": "2026-10-06T18:58:17Z",
+    "url": "https://fortune.com/2026/10/06/finding-value-from-ai-in-big-companies-comes-down-to-people-not-technology/"
+  },
+  {
+    "id": "article_0103",
+    "title": "Hark launches proactive AI app Hark Pro ahead of 2027 hardware debut",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-06T19:39:12Z",
+    "url": "https://cryptobriefing.com/hark-launches-proactive-ai-app-hark-pro/"
+  },
+  {
+    "id": "article_0104",
+    "title": "US AI models are often cheaper per task than Chinese rivals, analysis finds",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-06T20:29:54Z",
+    "url": "https://cryptobriefing.com/us-ai-models-cheaper-per-task-chinese/"
+  },
+  {
+    "id": "article_0105",
+    "title": "She Quit Her 6-Figure Amazon Job at 5 Months Pregnant to Launch Her Own Business: \u2018Massive Opportunity Ahead of Us\u2019",
+    "source": "Entrepreneur",
+    "published_at": "2026-10-06T20:33:29Z",
+    "url": "https://www.entrepreneur.com/building-a-business/she-walked-away-from-a-six-figure-job-at-amazon-to-launch-her-own-business"
+  },
+  {
+    "id": "article_0106",
+    "title": "Global Smart Refrigerator Market Set to Reach USD 14.30 Billion by 2034 as AI Integration, Connected Home Adoption and Energy-Efficient Technologies Accelerate, reports Maximize Market Research",
+    "source": "PRNewswire",
+    "published_at": "2026-10-06T22:00:00Z",
+    "url": "https://www.prnewswire.com/news-releases/global-smart-refrigerator-market-set-to-reach-usd-14-30-billion-by-2034-as-ai-integration-connected-home-adoption-and-energy-efficient-technologies-accelerate-reports-maximize-market-research-302899909.html"
+  },
+  {
+    "id": "article_0107",
+    "title": "Queue\uff5cLLMO\u30ca\u30d3\u306b\u306635\u9818\u57df\u306e2026\u5e7410\u6708\u8abf\u67fb\u3092\u516c\u958b",
+    "source": "Prtimes.jp",
+    "published_at": "2026-10-07T00:00:00Z",
+    "url": "https://prtimes.jp/main/html/rd/p/000000045.000147944.html"
+  },
+  {
+    "id": "article_0108",
+    "title": "DeepSeek reportedly set to raise more than US$12B ahead of potential IPO",
+    "source": "Digitimes",
+    "published_at": "2026-10-07T02:27:58Z",
+    "url": "https://www.digitimes.com/news/a20261007VL207/deepseek-ipo-funding-startup-huawei.html"
+  },
+  {
+    "id": "article_0109",
+    "title": "A spy's guide to fighting AI-driven propaganda and disinformation",
+    "source": "Business Standard",
+    "published_at": "2026-10-07T03:24:42Z",
+    "url": "https://www.business-standard.com/world-news/a-spy-s-guide-to-fighting-ai-driven-propaganda-and-disinformation-126100700127_1.html"
+  },
+  {
+    "id": "article_0110",
+    "title": "China\u2019s Silent Collapse: AI and the Vanishing Future of Its Programmers",
+    "source": "Khabarhub.com",
+    "published_at": "2026-10-07T04:03:12Z",
+    "url": "https://english.khabarhub.com/2026/07/571005/"
+  },
+  {
+    "id": "article_0111",
+    "title": "Nvidia-Backed Startup Builds Open-Weight Model to Challenge Chinese Labs",
+    "source": "PCMag.com",
+    "published_at": "2026-10-07T04:19:26Z",
+    "url": "https://me.pcmag.com/en/ai/38260/nvidia-backed-startup-builds-open-weight-model-to-challenge-chinese-labs"
+  },
+  {
+    "id": "article_0112",
+    "title": "Acquia.com - Drupal Blog: Vibe Coding Drupal: The Pragmatic Middle Path",
+    "source": "Acquia.com",
+    "published_at": "2026-10-07T08:20:30Z",
+    "url": "https://www.acquia.com/blog/vibe-coding-drupal-pragmatic-middle-path"
+  },
+  {
+    "id": "article_0113",
+    "title": "What is AI model distillation, and why is it so hard to stop?",
+    "source": "Scientific American",
+    "published_at": "2026-10-07T11:00:00Z",
+    "url": "https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/"
+  },
+  {
+    "id": "article_0114",
+    "title": "China\u2019s AI Rollout Has No Off Switch",
+    "source": "Foreign Policy",
+    "published_at": "2026-10-07T11:20:15Z",
+    "url": "http://foreignpolicy.com/2026/10/07/china-ai-race-artificial-intelligence-safety-models-kill-switch/"
+  },
+  {
+    "id": "article_0115",
+    "title": "AI agent fleet likely from Chinese firm Tencent pulled data from rival Alibaba\u2019s maps, researchers say",
+    "source": "Slashdot.org",
+    "published_at": "2026-10-07T11:53:52Z",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186059550"
+  },
+  {
+    "id": "article_0116",
+    "title": "Stop guessing how to use AI. Master 6 top AI assistants for $15.99.",
+    "source": "Cult of Mac",
+    "published_at": "2026-10-07T13:45:16Z",
+    "url": "https://www.cultofmac.com/deals/master-chatgpt-gemini-perplexity-and-more-with-multi-course-training-for-just-16"
+  },
+  {
+    "id": "article_0117",
+    "title": "ChatGPT, Gemini, and Claude imitated in fake ads that steal credentials and MFA codes",
+    "source": "TechRadar",
+    "published_at": "2026-10-07T15:08:01Z",
+    "url": "https://www.techradar.com/pro/security/chatgpt-gemini-and-claude-imitated-in-fake-ads-that-steal-credentials-and-mfa-codes"
+  },
+  {
+    "id": "article_0118",
+    "title": "Loved the 80s AI photo trend? Now try the 1970s viral photo trend on Instagram with these 5 easy Bollywood-style prompts",
+    "source": "The Times of India",
+    "published_at": "2026-10-07T15:30:00Z",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/loved-the-80s-ai-photo-trend-now-try-the-1970s-viral-photo-trend-on-instagram-with-these-5-easy-bollywood-style-prompts/photostory/134767965.cms"
+  },
+  {
+    "id": "article_0119",
+    "title": "What Changed in Digital Marketing: ChatGPT Runs Ads Now",
+    "source": "Lucidmedia.co.nz",
+    "published_at": "2026-10-07T15:36:47Z",
+    "url": "https://www.lucidmedia.co.nz/blog/digital-marketing-news-october-2026/"
+  },
+  {
+    "id": "article_0120",
+    "title": "Dropbox\u2019s CTO wants every employee at the cloud-storage company to use AI. He\u2019s letting them find their own ways to use it",
+    "source": "Fortune",
+    "published_at": "2026-10-07T16:36:43Z",
+    "url": "https://fortune.com/2026/10/07/cio-intelligence-dropbox-cto/"
+  },
+  {
+    "id": "article_0121",
+    "title": "Soket AI unveils LOOP Harness to advance India\u2019s frontier AI capabilities",
+    "source": "BusinessLine",
+    "published_at": "2026-10-07T16:57:54Z",
+    "url": "https://www.thehindubusinessline.com/info-tech/soket-ai-unveils-loop-harness-to-advance-indias-frontier-ai-capabilities/article71555330.ece"
+  },
+  {
+    "id": "article_0122",
+    "title": "Alibaba\u2019s Joe Tsai says open source is Europe\u2019s only way to AI independence",
+    "source": "The Next Web",
+    "published_at": "2026-10-07T17:15:02Z",
+    "url": "https://thenextweb.com/news/alibaba-joe-tsai-open-source-ai-sovereignty-europe-wave-by-vento"
+  },
+  {
+    "id": "article_0123",
+    "title": "Alibaba chairman Joe Tsai urges Europe to build its own open-source AI",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-07T17:28:34Z",
+    "url": "https://cryptobriefing.com/joe-tsai-europe-open-source-ai/"
+  },
+  {
+    "id": "article_0124",
+    "title": "Taxes, licenses, benefits: Here\u2019s what the new America.gov can do \u2014 and can't",
+    "source": "TheBlaze",
+    "published_at": "2026-10-07T18:00:00Z",
+    "url": "https://www.theblaze.com/tech/americagov-bot-guide"
+  },
+  {
+    "id": "article_0125",
+    "title": "AI Model Groupthink",
+    "source": "Magicnumbers.io",
+    "published_at": "2026-10-07T18:08:38Z",
+    "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/"
+  },
+  {
+    "id": "article_0126",
+    "title": "Google Lets You Build a Video Game by Typing a Description",
+    "source": "Decrypt",
+    "published_at": "2026-10-07T18:08:51Z",
+    "url": "https://decrypt.co/380326/google-build-video-game-typing-description"
+  },
+  {
+    "id": "article_0127",
+    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
+    "source": "Nvidia.com",
+    "published_at": "2026-10-07T18:45:28Z",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+  },
+  {
+    "id": "article_0128",
+    "title": "OpenAI dots inspire open source imitators amid technical difficulties",
+    "source": "Theregister.com",
+    "published_at": "2026-10-07T20:45:05Z",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/07/openai-dots-inspire-open-source-imitators-amid-technical-difficulties/5301734"
+  },
+  {
+    "id": "article_0129",
+    "title": "AI Translation",
+    "source": "Drupal.org",
+    "published_at": "2026-10-07T21:32:29Z",
+    "url": "https://www.drupal.org/project/ai_translation"
+  },
+  {
+    "id": "article_0130",
+    "title": "Anthropic's secret weapon is its CEO's charm, one of its earliest investors says",
+    "source": "Business Insider",
+    "published_at": "2026-10-08T03:19:59Z",
+    "url": "https://www.businessinsider.com/menlo-ventures-matt-murphy-discusses-key-to-anthropic-success-2026-10#article"
+  },
+  {
+    "id": "article_0131",
+    "title": "Best AI Visibility & GEO Agency (2026): Nicely Network Awarded by Software Experts",
+    "source": "PRNewswire",
+    "published_at": "2026-10-08T04:27:00Z",
+    "url": "https://www.prnewswire.com/news-releases/best-ai-visibility--geo-agency-2026-nicely-network-awarded-by-software-experts-302901984.html"
+  },
+  {
+    "id": "article_0132",
+    "title": "Jacob Coxon says this is why pacing the frontier might not work",
+    "source": "Business Insider",
+    "published_at": "2026-10-08T04:51:12Z",
+    "url": "https://www.businessinsider.com/jacob-coxon-pacing-frontier-might-not-work-openai-anthropic-china-2026-10#article"
+  },
+  {
+    "id": "article_0133",
+    "title": "Kuaishou\u2019s Kling AI reportedly picks banks for Hong Kong IPO targeting at least $1 billion",
+    "source": "TechNode",
+    "published_at": "2026-10-08T05:27:08Z",
+    "url": "https://technode.com/2026/10/08/kuaishous-kling-ai-reportedly-picks-banks-for-hong-kong-ipo-targeting-at-least-1-billion/"
+  },
+  {
+    "id": "article_0134",
+    "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-08T06:42:44Z",
+    "url": "https://biztoc.com/x/664eda155b17a3c9"
+  },
+  {
+    "id": "article_0135",
+    "title": "Adobe and Heathrow Airport Partner to Transform the Digital Experience for Millions of Passengers in the AI Era",
+    "source": "PR Newswire UK",
+    "published_at": "2026-10-08T07:00:00Z",
+    "url": "https://www.prnewswire.co.uk/news-releases/adobe-and-heathrow-airport-partner-to-transform-the-digital-experience-for-millions-of-passengers-in-the-ai-era-302901431.html"
+  },
+  {
+    "id": "article_0136",
+    "title": "TODAY lands \u20ac2.8M to scale its AI platform for financial advisors",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-08T08:13:34Z",
+    "url": "https://biztoc.com/x/b3c809104e0d3c82"
+  },
+  {
+    "id": "article_0137",
+    "title": "Is That Picture AI? Google\u2019s SynthID Detector Launches to Identify AI-Generated Media",
+    "source": "CNET",
+    "published_at": "2026-10-08T09:33:53Z",
+    "url": "https://www.cnet.com/tech/services-and-software/google-synthid-detector-launches/"
+  },
+  {
+    "id": "article_0138",
+    "title": "Alibaba\u2019s AI cloud revenue set to surge over 50% as investment blitz pays off: analysts",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-08T11:44:48Z",
+    "url": "https://biztoc.com/x/549252b594ec950d"
+  },
+  {
+    "id": "article_0139",
+    "title": "AutoTrust AI's JEV-27B-VL Tops Hugging Face Global Trending List as Open Decision Models Gain Momentum",
+    "source": "PRNewswire",
+    "published_at": "2026-10-08T12:00:00Z",
+    "url": "https://www.prnewswire.com/news-releases/autotrust-ais-jev-27b-vl-tops-hugging-face-global-trending-list-as-open-decision-models-gain-momentum-302902279.html"
+  },
+  {
+    "id": "article_0140",
+    "title": "TCS Q2 results 2026: Top 13 highlights from Sept quarter - Google Gemini, Honeywell Tech, Aareal Bank, Vodafone and more",
+    "source": "Livemint",
+    "published_at": "2026-10-08T13:00:26Z",
+    "url": "https://www.livemint.com/companies/news/tcs-q2-results-2026-top-13-highlights-from-sept-quarter-google-gemini-honeywell-tech-aareal-bank-vodafone-and-more-11791463662224.html"
+  },
+  {
+    "id": "article_0141",
+    "title": "China's Manus raises over $500M in first funding round since split with Meta | TechCrunch",
+    "source": "TechCrunch",
+    "published_at": "2026-10-08T13:21:30Z",
+    "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+  },
+  {
+    "id": "article_0142",
+    "title": "Software could be the easiest fix for hyperscalers' AI power squeeze, researchers say",
+    "source": "Tom's Hardware UK",
+    "published_at": "2026-10-08T14:00:00Z",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030"
+  },
+  {
+    "id": "article_0143",
+    "title": "10 Best Free AI Headshot Generators (Free & Freemium)",
+    "source": "Graphicdesignjunction.com",
+    "published_at": "2026-10-08T14:04:39Z",
+    "url": "https://graphicdesignjunction.com/2026/10/free-ai-headshot-generators/"
+  },
+  {
+    "id": "article_0144",
+    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+    "source": "Internet",
+    "published_at": "2026-10-08T14:12:34Z",
+    "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+  },
+  {
+    "id": "article_0145",
+    "title": "What should we tell our students?",
+    "source": "Wordpress.com",
+    "published_at": "2026-10-08T14:43:35Z",
+    "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/"
+  },
+  {
+    "id": "article_0146",
+    "title": "Google leads AI race with 43% chance of top model by 2026",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-08T16:28:56Z",
+    "url": "https://cryptobriefing.com/google-leads-ai-race-with-43-chance-of-top-model-by-2026/"
+  },
+  {
+    "id": "article_0147",
+    "title": "Do LLMs Really Understand Us?",
+    "source": "Psychology Today",
+    "published_at": "2026-10-08T16:52:17Z",
+    "url": "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202610/do-llms-really-understand-us"
+  },
+  {
+    "id": "article_0148",
+    "title": "Poll: Vast Majority of Americans Concerned About Keeping AI Under Human Control",
+    "source": "Breitbart News",
+    "published_at": "2026-10-08T17:25:29Z",
+    "url": "https://www.breitbart.com/tech/2026/10/08/poll-vast-majority-of-americans-concerned-about-keeping-ai-under-human-control/"
+  },
+  {
+    "id": "article_0149",
+    "title": "Epoch\u2019s Automation Reports find frontier AI still can\u2019t do Epoch\u2019s job",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-08T17:41:23Z",
+    "url": "https://cryptobriefing.com/epoch-automation-reports-ai-model-capabilities/"
+  },
+  {
+    "id": "article_0150",
+    "title": "He Helped Create Modern AI. Now the \u2018Godfather of AI\u2019 Wants an FDA-Style Approval System for It.",
+    "source": "Entrepreneur",
+    "published_at": "2026-10-08T18:06:54Z",
+    "url": "https://www.entrepreneur.com/business-news/the-godfather-of-ai-wants-an-fda-style-approval-process"
+  },
+  {
+    "id": "article_0151",
+    "title": "Former OpenAI, Cognition staffers launch Hone to build AI agents that run business operations",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-08T18:47:46Z",
+    "url": "https://cryptobriefing.com/hone-ai-agents-60-million-seed/"
+  },
+  {
+    "id": "article_0152",
+    "title": "5 Things To Ask Gemini For Better Google Maps Results",
+    "source": "BGR",
+    "published_at": "2026-10-08T19:17:00Z",
+    "url": "https://www.bgr.com/2276065/things-ask-gemini-for-better-google-maps-results/"
+  },
+  {
+    "id": "article_0153",
+    "title": "Google Gemini Call for Me rumors might be the AI feature I\u2019ve actually been waiting for",
+    "source": "Gadget Flow",
+    "published_at": "2026-10-08T20:42:23Z",
+    "url": "https://thegadgetflow.com/blog/google-gemini-call-for-me-rumors-might-be-the-ai-feature-ive-actually-been-waiting-for/"
+  },
+  {
+    "id": "article_0154",
+    "title": "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition",
+    "source": "Decrypt",
+    "published_at": "2026-10-08T21:46:03Z",
+    "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china"
+  },
+  {
+    "id": "article_0155",
+    "title": "From Ben Affleck to Tiger Woods, the celebrity founders behind today\u2019s buzziest companies",
+    "source": "Cbinsights.com",
+    "published_at": "2026-10-08T22:30:40Z",
+    "url": "https://www.cbinsights.com/research/newsletter-october-8-2026/"
+  },
+  {
+    "id": "article_0156",
+    "title": "Sui And Alibaba Cloud Want AI Agents Paying Their Own Cloud Bills In Stablecoins",
+    "source": "Bitcoinist",
+    "published_at": "2026-10-09T01:00:00Z",
+    "url": "https://bitcoinist.com/sui-and-alibaba-cloud-want-ai-agents-paying-their-own-cloud-bills-in/"
+  },
+  {
+    "id": "article_0157",
+    "title": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
+    "source": "Insurance Journal",
+    "published_at": "2026-10-09T05:36:05Z",
+    "url": "https://www.insurancejournal.com/news/national/2026/10/09/888472.htm"
+  },
+  {
+    "id": "article_0158",
+    "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM and Kimi",
+    "source": "TechNode",
+    "published_at": "2026-10-09T08:52:23Z",
+    "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/"
+  },
+  {
+    "id": "article_0159",
+    "title": "I Let AI Plan My Days and Nights. It Doesn\u2019t Understand Happiness",
+    "source": "CNET",
+    "published_at": "2026-10-09T08:59:01Z",
+    "url": "https://www.cnet.com/tech/services-and-software/ai-chatbots-planning-day-schedule-happiness/"
+  },
+  {
+    "id": "article_0160",
+    "title": "Friday Fusions \u2013 Tree Crops: A Permanent Agriculture \u2013 Part 2 \u2013 Epi-3917",
+    "source": "Thesurvivalpodcast.com",
+    "published_at": "2026-10-09T11:30:33Z",
+    "url": "https://www.thesurvivalpodcast.com/fusionsns-3917"
+  },
+  {
+    "id": "article_0161",
+    "title": "AI Driving Game Demo Forces Developer to Take Out Bank Loan to Keep It Running",
+    "source": "IGN",
+    "published_at": "2026-10-09T13:52:05Z",
+    "url": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan"
+  },
+  {
+    "id": "article_0162",
+    "title": "Sergiu Nagailic (Nikro) Blog: Nichebench: the harness",
+    "source": "Nikro.me",
+    "published_at": "2026-10-09T14:05:53Z",
+    "url": "https://nikro.me/articles/professional/quietbee-building-home-ai-lab-fine-tuning/"
+  },
+  {
+    "id": "article_0163",
+    "title": "Agentic coding is a financial trap",
+    "source": "Frugaast.dev",
+    "published_at": "2026-10-09T14:45:19Z",
+    "url": "https://frugaast.dev/blog/agentic-costs-unsustainable"
+  },
+  {
+    "id": "article_0164",
+    "title": "Best Reddit Marketing Agency (Q4 2026): Nicely Network Recognised by Expert Consumers",
+    "source": "PRNewswire",
+    "published_at": "2026-10-09T15:00:00Z",
+    "url": "https://www.prnewswire.com/news-releases/best-reddit-marketing-agency-q4-2026-nicely-network-recognised-by-expert-consumers-302903384.html"
+  },
+  {
+    "id": "article_0165",
+    "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
+    "source": "InfoQ.com",
+    "published_at": "2026-10-09T17:00:00Z",
+    "url": "https://www.infoq.com/news/2026/10/android-bench-2/"
+  },
+  {
+    "id": "article_0166",
+    "title": "Discovery Loop targets $50B valuation, leading record decacorn pace",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-09T17:24:03Z",
+    "url": "https://cryptobriefing.com/discovery-loop-50b-valuation-decacorn-pace/"
+  },
+  {
+    "id": "article_0167",
+    "title": "How Firmus, the biggest IPO in three decades, fell over",
+    "source": "ABC News (AU)",
+    "published_at": "2026-10-09T18:00:00Z",
+    "url": "https://www.abc.net.au/news/2026-10-10/how-firmus-the-biggest-ipo-in-three-decades-fell-over/107247100"
+  },
+  {
+    "id": "article_0168",
+    "title": "A teen used AI to plan a hiking route. It trapped him on a cliff.",
+    "source": "Popular Science",
+    "published_at": "2026-10-09T18:43:45Z",
+    "url": "https://www.popsci.com/technology/ai-hiking-route-strands-teen/"
+  },
+  {
+    "id": "article_0169",
+    "title": "Alibaba Is Now Down 24% This Year: Did BABA Stock Just Find a Bottom?",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-09T19:12:53Z",
+    "url": "https://biztoc.com/x/a49bddf3e403d2d0"
+  },
+  {
+    "id": "article_0170",
+    "title": "I used only local AI for a week and learned what actually needs the cloud",
+    "source": "XDA Developers",
+    "published_at": "2026-10-09T20:00:17Z",
+    "url": "https://www.xda-developers.com/ran-entire-ai-workflow-locally-for-week-learned-what-actually-needs-cloud/"
+  },
+  {
+    "id": "article_0171",
+    "title": "Apple acqui-hires AI startup founded by former NotebookLM developers",
+    "source": "9to5Mac",
+    "published_at": "2026-10-09T20:04:58Z",
+    "url": "https://9to5mac.com/2026/10/09/apple-acqui-hires-ai-startup-founded-by-former-notebooklm-developers/"
+  },
+  {
+    "id": "article_0172",
+    "title": "Here are 10 terms you need to know to understand artificial intelligence",
+    "source": "New York Post",
+    "published_at": "2026-10-09T20:32:18Z",
+    "url": "https://nypost.com/2026/10/09/business/here-are-10-terms-you-need-to-know-to-understand-artificial-intelligence/"
+  },
+  {
+    "id": "article_0173",
+    "title": "How AI responded when researchers posed as terrorists seeking help",
+    "source": "CBS News",
+    "published_at": "2026-10-09T21:40:37Z",
+    "url": "https://www.cbsnews.com/news/researchers-ai-terrorist-operations-responded/"
+  },
+  {
+    "id": "article_0174",
+    "title": "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
+    "source": "Theregister.com",
+    "published_at": "2026-10-10T07:10:00Z",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473"
+  },
+  {
+    "id": "article_0175",
+    "title": "Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan",
+    "source": "Tom's Hardware UK",
+    "published_at": "2026-10-10T12:52:20Z",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses"
+  },
+  {
+    "id": "article_0176",
+    "title": "Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China",
+    "source": "Tom's Hardware UK",
+    "published_at": "2026-10-10T15:35:00Z",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges"
+  },
+  {
+    "id": "article_0177",
+    "title": "Three Agent Specs Promised for October Remain Unshipped. The Vendor Extensions Filling the Vacuum Are Fragmenting the Stack.",
+    "source": "Forkast.news",
+    "published_at": "2026-10-10T23:46:00Z",
+    "url": "https://forkast.news/three-agent-specs-promised-for-october-remain-unshipped-the-vendor-extensions-filling-the-vacuum-are-fragmenting-the-stack/"
+  },
+  {
+    "id": "article_0178",
+    "title": "Nvidia in talks to deepen investment in or acquire AI startup Reflection",
+    "source": "Business Standard",
+    "published_at": "2026-10-11T02:59:36Z",
+    "url": "https://www.business-standard.com/world-news/nvidia-in-talks-to-deepen-investment-in-or-acquire-ai-startup-reflection-126101100061_1.html"
+  },
+  {
+    "id": "article_0179",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "source": "The Verge",
+    "published_at": "2026-10-11T04:53:46Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+  },
+  {
+    "id": "article_0180",
+    "title": "Andy Mukherjee: The AI productivity boom has begun\u2014if you know where to find it",
+    "source": "Livemint",
+    "published_at": "2026-10-11T10:00:44Z",
+    "url": "https://www.livemint.com/opinion/online-views/andy-mukherjee-the-ai-productivity-boom-has-begun-if-you-know-where-to-find-it-11791464874233.html"
+  },
+  {
+    "id": "article_0181",
+    "title": "I left my $200K Microsoft job to bet on my startup. Work became less fun, and AI made me feel ready to build it alone",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-11T11:08:30Z",
+    "url": "https://biztoc.com/x/487b95e166df4ca6"
+  },
+  {
+    "id": "article_0182",
+    "title": "Recursive self-improvement through collective intelligence",
+    "source": "Sakana.ai",
+    "published_at": "2026-10-11T22:22:10Z",
+    "url": "https://pub.sakana.ai/mass/"
+  },
+  {
+    "id": "article_0183",
+    "title": "Coinbase fine-tunes Qwen3.5-9B model for fraud prevention, beating frontier models",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-11T22:37:12Z",
+    "url": "https://cryptobriefing.com/coinbase-qwen-model-fraud-prevention/"
+  },
+  {
+    "id": "article_0184",
+    "title": "Amazon in talks to buy AI startup Decart",
+    "source": "The Straits Times",
+    "published_at": "2026-10-11T23:26:00Z",
+    "url": "https://www.straitstimes.com/business/amazon-in-talks-to-buy-ai-startup-decart-for-around-us7-billion-report"
+  },
+  {
+    "id": "article_0185",
+    "title": "Private, offline and yours: how to search the literature with local AI systems",
+    "source": "Nature.com",
+    "published_at": "2026-10-12T00:00:00Z",
+    "url": "https://www.nature.com/articles/d41586-026-03227-4"
+  },
+  {
+    "id": "article_0186",
+    "title": "Local Indexing to reduce tool calling and token usage",
+    "source": "Tedhaley.ca",
+    "published_at": "2026-10-12T00:03:53Z",
+    "url": "https://tedhaley.ca/pensieve/"
+  },
+  {
+    "id": "article_0187",
+    "title": "Report: Amazon in talks with AI startup Decart over possible $7B acquisition",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T00:31:19Z",
+    "url": "https://siliconangle.com/2026/10/11/report-amazon-in-talks-with-ai-startup-decart-over-possible-7b-acquisition/"
+  },
+  {
+    "id": "article_0188",
+    "title": "Report: Amazon in talks to acquire Israeli AI startup Decart",
+    "source": "Israelnationalnews.com",
+    "published_at": "2026-10-12T01:07:14Z",
+    "url": "https://www.israelnationalnews.com/news/434453"
+  },
+  {
+    "id": "article_0189",
+    "title": "Amazon eyes Decart acquisition at $7 billion as AI chip race intensifies",
+    "source": "Business Standard",
+    "published_at": "2026-10-12T04:41:29Z",
+    "url": "https://www.business-standard.com/industry/news/amazon-talks-acquire-ai-startup-decart-7-billion-126101200176_1.html"
+  },
+  {
+    "id": "article_0190",
+    "title": "Why Local AI Is the Real Revolution\u00e2\u0080\u0094and Big Tech\u2019s Bubble Is About to Pop",
+    "source": "Naturalnews.com",
+    "published_at": "2026-10-12T06:00:00Z",
+    "url": "https://www.naturalnews.com/2026-10-12-why-local-ai-is-the-real-revolution.html"
+  },
+  {
+    "id": "article_0191",
+    "title": "UC San Diego researchers teach a 7B AI agent to read its partner\u2019s mind",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T07:18:57Z",
+    "url": "https://cryptobriefing.com/uc-san-diego-theory-of-mind-7b-agent/"
+  },
+  {
+    "id": "article_0192",
+    "title": "privateSLM: Offline AI Chat",
+    "source": "Giveawayoftheday.com",
+    "published_at": "2026-10-12T07:24:17Z",
+    "url": "https://iphone.giveawayoftheday.com/privateslm-offline-ai-chat/"
+  },
+  {
+    "id": "article_0193",
+    "title": "Tencent reportedly plans $5 billion bond sale to fund its AI buildout",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T08:28:57Z",
+    "url": "https://cryptobriefing.com/tencent-5-billion-bond-ai-capex/"
+  },
+  {
+    "id": "article_0194",
+    "title": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+    "source": "The Verge",
+    "published_at": "2026-10-12T10:56:42Z",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+  },
+  {
+    "id": "article_0195",
+    "title": "Presentation: You Can't Trust Your AI Bill. And Neither Can I",
+    "source": "InfoQ.com",
+    "published_at": "2026-10-12T11:00:00Z",
+    "url": "https://www.infoq.com/presentations/ai-cloud-cost-economics/"
+  },
+  {
+    "id": "article_0196",
+    "title": "India's HCLTech signs a pact with Anthropic, to set up business unit",
+    "source": "CNA",
+    "published_at": "2026-10-12T11:05:33Z",
+    "url": "https://www.channelnewsasia.com/business/indias-hcltech-signs-pact-anthropic-set-up-business-unit-6452836"
+  },
+  {
+    "id": "article_0197",
+    "title": "Meta has some Wonder Full new AI models",
+    "source": "The Verge",
+    "published_at": "2026-10-12T11:13:10Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+  },
+  {
+    "id": "article_0198",
+    "title": "HCLTech to set up dedicated business unit for agentic AI solutions",
+    "source": "BusinessLine",
+    "published_at": "2026-10-12T11:15:03Z",
+    "url": "https://www.thehindubusinessline.com/info-tech/hcltech-to-set-up-dedicated-business-unit-for-agentic-ai-solutions/article71574741.ece"
+  },
+  {
+    "id": "article_0199",
+    "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
+    "source": "CoinDesk",
+    "published_at": "2026-10-12T11:21:11Z",
+    "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge"
+  },
+  {
+    "id": "article_0200",
+    "title": "The week in AI-native telco (3-9 Oct 2026)",
+    "source": "TelecomTV",
+    "published_at": "2026-10-12T11:37:18Z",
+    "url": "https://www.telecomtv.com/content/ai/the-week-in-ai-native-telco-3-9-oct-2026-56443/"
+  },
+  {
+    "id": "article_0201",
+    "title": "DeepSeek leads funding round valuing a Chinese robot AI startup at $400 million",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T11:55:51Z",
+    "url": "https://cryptobriefing.com/deepseek-leads-robot-ai-startup-funding/"
+  },
+  {
+    "id": "article_0202",
+    "title": "The People Who Use AI to Talk With Their Family",
+    "source": "The Atlantic",
+    "published_at": "2026-10-12T12:00:00Z",
+    "url": "https://www.theatlantic.com/family/2026/10/ai-family-text/688962/?utm_source=feed"
+  },
+  {
+    "id": "article_0203",
+    "title": "E-commerce AI startup Loops raises $3.5M to create smoother online shopping experiences",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T12:00:10Z",
+    "url": "https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/"
+  },
+  {
+    "id": "article_0204",
+    "title": "A Core Demographic of People Who Love AI: Pedophiles",
+    "source": "Futurism",
+    "published_at": "2026-10-12T12:02:00Z",
+    "url": "https://futurism.com/artificial-intelligence/core-demographic-people-love-ai-pedophiles"
+  },
+  {
+    "id": "article_0205",
+    "title": "HCLTech and Anthropic sign Global Premier Partnership to scale governed Agentic AI across global enterprises",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T12:03:00Z",
+    "url": "https://www.prnewswire.com/news-releases/hcltech-and-anthropic-sign-global-premier-partnership-to-scale-governed-agentic-ai-across-global-enterprises-302905630.html"
+  },
+  {
+    "id": "article_0206",
+    "title": "HCLTech signs pact with Anthropic to set up dedicated AI business unit",
+    "source": "Business Standard",
+    "published_at": "2026-10-12T12:09:56Z",
+    "url": "https://www.business-standard.com/companies/news/hcltech-signs-pact-with-anthropic-to-set-up-dedicated-ai-business-unit-126101200830_1.html"
+  },
+  {
+    "id": "article_0207",
+    "title": "AI as War, Surveillance, and Environmental Disaster",
+    "source": "Common Dreams",
+    "published_at": "2026-10-12T12:13:02Z",
+    "url": "https://www.commondreams.org/opinion/ai-dangers"
+  },
+  {
+    "id": "article_0208",
+    "title": "One UI 9 is rolling out now to Galaxy Z Fold 6 and Z Flip 6 in the US",
+    "source": "Intomobile.com",
+    "published_at": "2026-10-12T12:14:47Z",
+    "url": "https://www.intomobile.com/2026/10/12/one-ui-9-is-rolling-out-now-to-galaxy-z-fold-6-and-z-flip-6-in-the-us/"
+  },
+  {
+    "id": "article_0209",
+    "title": "Iren Shares Rise 5% Premarket Following Reported Multi-Year AI Cloud Deal With Anthropic",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T12:17:07Z",
+    "url": "https://biztoc.com/x/f6600e92583dac5c"
+  },
+  {
+    "id": "article_0210",
+    "title": "Teamland Brings Claude AI Workshops to Boston, Orlando and Online, Expands Corporate AI Training Access",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T12:33:00Z",
+    "url": "https://www.prnewswire.com/news-releases/teamland-brings-claude-ai-workshops-to-boston-orlando-and-online-expands-corporate-ai-training-access-302905651.html"
+  },
+  {
+    "id": "article_0211",
+    "title": "XPENG Launches the G9L Next-Gen AI Flagship SUV in Europe, Debuts NGP and Expands Global Technology Collaboration at 2026 Paris Motor Show",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T12:35:00Z",
+    "url": "https://www.prnewswire.com/news-releases/xpeng-launches-the-g9l-next-gen-ai-flagship-suv-in-europe-debuts-ngp-and-expands-global-technology-collaboration-at-2026-paris-motor-show-302905653.html"
+  },
+  {
+    "id": "article_0212",
+    "title": "IREN Climbs 4% on Report of Unconfirmed Anthropic Cloud Deal; TeraWulf and Applied Digital Hold Flat",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T12:44:59Z",
+    "url": "https://biztoc.com/x/894a76ab3a0275b8"
+  },
+  {
+    "id": "article_0213",
+    "title": "Amazon May Spend $7 Billion on Decart",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T12:48:19Z",
+    "url": "https://biztoc.com/x/5fa4c87b4e0bff34"
+  },
+  {
+    "id": "article_0214",
+    "title": "The Model as Disciplinary Agent: Anthropic\u2019s Claude Gains the Right to Walk Away",
+    "source": "Forkast.news",
+    "published_at": "2026-10-12T12:53:05Z",
+    "url": "https://forkast.news/the-model-as-disciplinary-agent-anthropics-claude-gains-the-right-to-walk-away/"
+  },
+  {
+    "id": "article_0215",
+    "title": "Broadcom and Intel CEOs say capital, not chips, is AI\u2019s next bottleneck",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T12:59:01Z",
+    "url": "https://cryptobriefing.com/broadcom-intel-ceos-capital-ai-bottleneck/"
+  },
+  {
+    "id": "article_0216",
+    "title": "AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 \u2018Venice\u2019 cores \u2014 rack design ships next year in CPU-only and all-in-one configurations",
+    "source": "Tom's Hardware UK",
+    "published_at": "2026-10-12T13:00:00Z",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations"
+  },
+  {
+    "id": "article_0217",
+    "title": "TI unveils new ADC to enable nanosecond-level telemetry and minimize downtime in AI data centers",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T13:00:00Z",
+    "url": "https://www.prnewswire.com/news-releases/ti-unveils-new-adc-to-enable-nanosecond-level-telemetry-and-minimize-downtime-in-ai-data-centers-302904992.html"
+  },
+  {
+    "id": "article_0218",
+    "title": "Tractor Supply opens Idaho distribution center with automation, dedicated AI team",
+    "source": "Supply Chain Dive",
+    "published_at": "2026-10-12T13:00:00Z",
+    "url": "https://www.supplychaindive.com/news/tractor-supply-opens-idaho-distribution-center-with-automation-dedicated-a/831883/"
+  },
+  {
+    "id": "article_0219",
+    "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+    "source": "CNBC",
+    "published_at": "2026-10-12T13:00:01Z",
+    "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
+  },
+  {
+    "id": "article_0220",
+    "title": "Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T13:00:06Z",
+    "url": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/"
+  },
+  {
+    "id": "article_0221",
+    "title": "How Microsoft\u2019s New Office Chief Fixed Copilot and Won Over Nadella",
+    "source": "The Information",
+    "published_at": "2026-10-12T13:01:04Z",
+    "url": "https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella"
+  },
+  {
+    "id": "article_0222",
+    "title": "Contact Apex Blue | Maryland AI Marketing & Automation Agency",
+    "source": "Apex.blue",
+    "published_at": "2026-10-12T13:04:54Z",
+    "url": "https://apex.blue/contact/"
+  },
+  {
+    "id": "article_0223",
+    "title": "Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T13:05:13Z",
+    "url": "https://cryptobriefing.com/microsoft-maia-300-ai-chip-nvidia/"
+  },
+  {
+    "id": "article_0224",
+    "title": "Contracted Capacity Becomes Key Metric for AI Infrastructure Investors to Watch",
+    "source": "Financial Post",
+    "published_at": "2026-10-12T13:05:58Z",
+    "url": "https://financialpost.com/globe-newswire/contracted-capacity-becomes-key-metric-for-ai-infrastructure-investors-to-watch"
+  },
+  {
+    "id": "article_0225",
+    "title": "Microsoft President Argues AI Less Regulated Than Washing Machines",
+    "source": "pymnts.com",
+    "published_at": "2026-10-12T13:07:38Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-president-argues-ai-less-regulated-than-washing-machines/"
+  },
+  {
+    "id": "article_0226",
+    "title": "Russian Military\u2019s AI Integration Work Is Tit-for-Tat Response to NATO\u2019s Experiments in Ukraine",
+    "source": "Sputnikglobe.com",
+    "published_at": "2026-10-12T13:10:12Z",
+    "url": "https://sputnikglobe.com/20261012/russian-militarys-ai-integration-work-is-tit-for-tat-response-to-natos-experiments-in-ukraine-1124870801.html"
+  },
+  {
+    "id": "article_0227",
+    "title": "My Year of Vibe Coding",
+    "source": "The Atlantic",
+    "published_at": "2026-10-12T13:11:23Z",
+    "url": "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/?utm_source=feed"
+  },
+  {
+    "id": "article_0228",
+    "title": "Applied Materials unveils $5B research facility in Silicon Valley in bid to streamline AI chipmaking",
+    "source": "New York Post",
+    "published_at": "2026-10-12T13:14:33Z",
+    "url": "https://nypost.com/2026/10/12/business/applied-materials-unveils-5b-research-facility-in-silicon-valley-in-bid-to-streamline-ai-chipmaking/"
+  },
+  {
+    "id": "article_0229",
+    "title": "Immorta Bio Pioneers AI-Designed Senolytic Immunotherapy Targeting Diseases of Aging",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T13:22:00Z",
+    "url": "https://www.prnewswire.com/news-releases/immorta-bio-pioneers-ai-designed-senolytic-immunotherapy-targeting-diseases-of-aging-302905700.html"
+  },
+  {
+    "id": "article_0230",
+    "title": "Amazon vs. Meta\u2019s Muse: An Identity Adjudication With Nothing Verifiable Underneath",
+    "source": "Forkast.news",
+    "published_at": "2026-10-12T13:24:42Z",
+    "url": "https://forkast.news/amazon-vs-metas-muse-an-identity-adjudication-with-nothing-verifiable-underneath/"
+  },
+  {
+    "id": "article_0231",
+    "title": "DeepSeek leads $400 million seed round for robotics AI startup",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T13:33:45Z",
+    "url": "https://biztoc.com/x/b76e784b6ced6b14"
+  },
+  {
+    "id": "article_0232",
+    "title": "HCLTech Q2 Results: Revenue up 11.5% but misses estimates, net profit up 21.2%",
+    "source": "Livemint",
+    "published_at": "2026-10-12T13:42:01Z",
+    "url": "https://www.livemint.com/companies/company-results/hcltech-q2-results-202627-11791811434426.html"
+  },
+  {
+    "id": "article_0233",
+    "title": "Fedstack, a Smoothstack Company, Named an OpenAI Select Partner",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T13:45:00Z",
+    "url": "https://www.prnewswire.com/news-releases/fedstack-a-smoothstack-company-named-an-openai-select-partner-302903698.html"
+  },
+  {
+    "id": "article_0234",
+    "title": "Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T13:47:33Z",
+    "url": "https://biztoc.com/x/1248e051c6fd48f4"
+  },
+  {
+    "id": "article_0235",
+    "title": "(PR) AMD Introduces Its Next Ryzen AI Halo Developer Platform With Ryzen AI Max+ PRO 495",
+    "source": "Techpowerup.com",
+    "published_at": "2026-10-12T13:53:16Z",
+    "url": "https://www.techpowerup.com/353621/amd-introduces-its-next-ryzen-ai-halo-developer-platform-with-ryzen-ai-max-pro-495"
+  },
+  {
+    "id": "article_0236",
+    "title": "Satya Nadella warns about trusting AI. 5 times when AI tried to escape shutdown, blackmail humans, manipulate and more",
+    "source": "The Times of India",
+    "published_at": "2026-10-12T13:58:07Z",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/satya-nadella-warns-about-trusting-ai-5-times-when-ai-tried-to-escape-shutdown-blackmail-humans-manipulate-and-more/articleshow/134891792.cms"
+  },
+  {
+    "id": "article_0237",
+    "title": "Intel to phase out SGX after Xeon Diamond Rapids in favor of TDX",
+    "source": "Tom's Hardware UK",
+    "published_at": "2026-10-12T14:00:00Z",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-to-phase-out-sgx-after-xeon-diamond-rapids-in-favor-of-tdx-confidential-computing-pivot-adds-trusted-i-o-and-post-quantum-crypto-for-agentic-ai"
+  },
+  {
+    "id": "article_0238",
+    "title": "Gates Warns That AI Cyberattacks Will Bring \"a Lot of Negative Surprises\" in the Next Year",
+    "source": "Ibtimes.com.au",
+    "published_at": "2026-10-12T14:00:29Z",
+    "url": "https://www.ibtimes.com.au/bill-gates-ai-criminals-cyber-threat-safeguards-1876577"
+  },
+  {
+    "id": "article_0239",
+    "title": "OpenAI\u2019s Plan To Revive Sora",
+    "source": "The Information",
+    "published_at": "2026-10-12T14:00:37Z",
+    "url": "https://www.theinformation.com/articles/openais-plan-revive-sora"
+  },
+  {
+    "id": "article_0240",
+    "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T14:01:12Z",
+    "url": "https://biztoc.com/x/a5688b16be2f586a"
+  },
+  {
+    "id": "article_0241",
+    "title": "When Will the AI Bubble Burst?",
+    "source": "Globalresearch.ca",
+    "published_at": "2026-10-12T14:02:19Z",
+    "url": "https://www.globalresearch.ca/when-ai-bubble-burst/5943435"
+  },
+  {
+    "id": "article_0242",
+    "title": "Waffling at the UN: \u201cOpen AI\u201d, Anthropic and Selling Artificial Intelligence",
+    "source": "Globalresearch.ca",
+    "published_at": "2026-10-12T14:03:59Z",
+    "url": "https://www.globalresearch.ca/un-openai-anthropic-selling-artificial-intelligence/5943350"
+  },
+  {
+    "id": "article_0243",
+    "title": "Pioneer Jeff Naughton, One of the Most Influential Database Scientists of This Generation, Joins Snowflake to Advance Data Systems for the Agentic Enterprise",
+    "source": "Financial Post",
+    "published_at": "2026-10-12T14:05:44Z",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/pioneer-jeff-naughton-one-of-the-most-influential-database-scientists-of-this-generation-joins-snowflake-to-advance-data-systems-for-the-agentic-enterprise"
+  },
+  {
+    "id": "article_0244",
+    "title": "hermes-agent v0.21.7",
+    "source": "Kitploit.com",
+    "published_at": "2026-10-12T14:07:41Z",
+    "url": "https://kitploit.com/en/posts/hermes-agent-16389b4ad1154239"
+  },
+  {
+    "id": "article_0245",
+    "title": "Claude Submitted a Fake Homicide Tip to Police, Raising New AI Safety Concerns",
+    "source": "Entrepreneur",
+    "published_at": "2026-10-12T14:10:00Z",
+    "url": "https://www.entrepreneur.com/business-news/claude-ai-submitted-a-fake-homicide-tip-to-police-raising-new-ai-safety-concerns"
+  },
+  {
+    "id": "article_0246",
+    "title": "Microsoft unveils Maia 300 AI chip, plans to deploy over 1 million next year",
+    "source": "BusinessLine",
+    "published_at": "2026-10-12T14:18:26Z",
+    "url": "https://www.thehindubusinessline.com/info-tech/microsoft-unveils-maia-300-ai-chip-plans-to-deploy-over-1-million-next-year/article71575735.ece"
+  },
+  {
+    "id": "article_0247",
+    "title": "Microsoft bets on homegrown AI chip to challenge Nvidia",
+    "source": "The Punch",
+    "published_at": "2026-10-12T14:20:53Z",
+    "url": "https://punchng.com/microsoft-bets-on-homegrown-ai-chip-to-challenge-nvidia/"
+  },
+  {
+    "id": "article_0248",
+    "title": "Walmart Shares Rise to $111.84 as CEO Furner Says the Company Will \"Price the Product, Not the Person\"",
+    "source": "Ibtimes.com.au",
+    "published_at": "2026-10-12T14:22:42Z",
+    "url": "https://www.ibtimes.com.au/walmart-shares-rise-ceo-ai-growth-strategy-1876580"
+  },
+  {
+    "id": "article_0249",
+    "title": "Zetwerk sees AI infrastructure, energy orders driving growth as IPO opens on October 15",
+    "source": "BusinessLine",
+    "published_at": "2026-10-12T14:25:02Z",
+    "url": "https://www.thehindubusinessline.com/markets/zetwerk-sees-ai-infrastructure-energy-orders-driving-growth-as-ipo-opens-on-october-15/article71575676.ece"
+  },
+  {
+    "id": "article_0250",
+    "title": "Microsoft says Maia 300 chip will run its AI services from 2027",
+    "source": "The Next Web",
+    "published_at": "2026-10-12T14:39:55Z",
+    "url": "https://thenextweb.com/news/microsoft-maia-300-ai-chip-2027"
+  },
+  {
+    "id": "article_0251",
+    "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+    "source": "The Times of India",
+    "published_at": "2026-10-12T14:43:27Z",
+    "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-plans-huge-deployment-of-its-own-ai-chips-with-an-eye-on-saving-costs/articleshow/134896014.cms"
+  },
+  {
+    "id": "article_0252",
+    "title": "What the US and China Should Discuss at APEC",
+    "source": "The Diplomat",
+    "published_at": "2026-10-12T14:45:00Z",
+    "url": "https://thediplomat.com/2026/10/what-the-us-and-china-should-discuss-at-apec/"
+  },
+  {
+    "id": "article_0253",
+    "title": "I Asked Muse to Help Me Book My Holiday Travel. It Didn\u2019t Fly Far.",
+    "source": "Gizmodo.com",
+    "published_at": "2026-10-12T14:45:18Z",
+    "url": "https://gizmodo.com/i-asked-muse-to-help-me-book-my-holiday-travel-it-didnt-fly-far-2000823264"
+  },
+  {
+    "id": "article_0254",
+    "title": "OpenAI to create 200 additional jobs in Ireland",
+    "source": "RTE",
+    "published_at": "2026-10-12T14:47:45Z",
+    "url": "https://www.rte.ie/news/business/2026/1012/1595068-openai-jobs-ireland/"
+  },
+  {
+    "id": "article_0255",
+    "title": "Why aren't AI companies being charged for hacking?",
+    "source": "Mortoray.com",
+    "published_at": "2026-10-12T14:52:37Z",
+    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
+  },
+  {
+    "id": "article_0256",
+    "title": "Powered by AI, HCLTech net profit rises 21% y-o-y to \u20b95,132 crore in Q2FY27",
+    "source": "BusinessLine",
+    "published_at": "2026-10-12T14:56:05Z",
+    "url": "https://www.thehindubusinessline.com/companies/powered-by-ai-hcltech-net-profit-rises-21-y-o-y-to-5132-crore-in-q2fy27/article71575751.ece"
+  },
+  {
+    "id": "article_0257",
+    "title": "Cisco Advances Scalability and Openness at OCP 2026",
+    "source": "PR Newswire UK",
+    "published_at": "2026-10-12T15:00:00Z",
+    "url": "https://www.prnewswire.co.uk/news-releases/cisco-advances-scalability-and-openness-at-ocp-2026-302905740.html"
+  },
+  {
+    "id": "article_0258",
+    "title": "Cisco Systems scales programmable AI network capacity with new silicon and repluggable optics innovations",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T15:00:03Z",
+    "url": "https://siliconangle.com/2026/10/12/cisco-systems-scales-programmable-ai-network-capacity-with-new-silicon-and-repluggable-optics-innovations/"
+  },
+  {
+    "id": "article_0259",
+    "title": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity",
+    "source": "Cisco.com",
+    "published_at": "2026-10-12T15:00:19Z",
+    "url": "https://blogs.cisco.com/news/cisco-and-nvidia-announce-usfp-expanding-the-path-to-ai-connectivity"
+  },
+  {
+    "id": "article_0260",
+    "title": "Nvidia tackles AI factory scaling bottlenecks with open rack designs and networking advances",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T15:00:53Z",
+    "url": "https://siliconangle.com/2026/10/12/nvidia-tackles-ai-factory-scaling-bottlenecks-with-open-rack-designs-and-networking-advances/"
+  },
+  {
+    "id": "article_0261",
+    "title": "Two Clocks, No Commitments: What Enterprise Deployers Actually Face on Oct 15",
+    "source": "Forkast.news",
+    "published_at": "2026-10-12T15:05:55Z",
+    "url": "https://forkast.news/two-clocks-no-commitments-what-enterprise-deployers-actually-face-on-oct-15/"
+  },
+  {
+    "id": "article_0262",
+    "title": "DeepSight Technology Appoints Scott Huennekens to Board of Directors",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T15:12:00Z",
+    "url": "https://www.prnewswire.com/news-releases/deepsight-technology-appoints-scott-huennekens-to-board-of-directors-302905166.html"
+  },
+  {
+    "id": "article_0263",
+    "title": "Microsoft puts Cisco Silicon One P200 systems to work in its network",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T15:13:11Z",
+    "url": "https://cryptobriefing.com/microsoft-cisco-silicon-one-p200-production/"
+  },
+  {
+    "id": "article_0264",
+    "title": "Microsoft Pres Says Milk Is More Regulated Than AI, Satya Nadella Urges An Emergency Brake",
+    "source": "Hot Hardware",
+    "published_at": "2026-10-12T15:15:00Z",
+    "url": "https://hothardware.com/news/microsoft-pres-says-milk-is-more-regulated-than-ai-satya-nadella-urges-an-emergency-brake"
+  },
+  {
+    "id": "article_0265",
+    "title": "This is normal bad work",
+    "source": "Wordpress.com",
+    "published_at": "2026-10-12T15:16:12Z",
+    "url": "https://terrytao.wordpress.com/2026/10/12/this-is-normal-bad-work/"
+  },
+  {
+    "id": "article_0266",
+    "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+    "source": "Internet",
+    "published_at": "2026-10-12T15:16:26Z",
+    "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
+  },
+  {
+    "id": "article_0267",
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "source": "Taylor.town",
+    "published_at": "2026-10-12T15:16:45Z",
+    "url": "https://taylor.town/kk-ai-2026"
+  },
+  {
+    "id": "article_0268",
+    "title": "Anthropic wants people to stop being mean to Claude",
+    "source": "Boing Boing",
+    "published_at": "2026-10-12T15:16:58Z",
+    "url": "https://boingboing.net/2026/10/12/anthropic-wants-people-to-stop-being-mean-to-claude.html"
+  },
+  {
+    "id": "article_0269",
+    "title": "The White House wants AI companies to police themselves. OpenAI just showed why that\u2019s dangerous",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T15:17:27Z",
+    "url": "https://biztoc.com/x/4599d929cf392fbd"
+  },
+  {
+    "id": "article_0270",
+    "title": "Anthropic gross margins from inference seem great",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T15:22:22Z",
+    "url": "https://cryptobriefing.com/anthropic-gross-margins-from-inference-seem-great/"
+  },
+  {
+    "id": "article_0271",
+    "title": "Hilton\u2019s AI Trip Planner Wants To Book Your Travel. Customers Aren\u2019t So Sure Yet.",
+    "source": "Entrepreneur",
+    "published_at": "2026-10-12T15:30:00Z",
+    "url": "https://www.entrepreneur.com/business-news/hiltons-ai-trip-planner-wants-to-book-your-travel-customers-arent-so-sure-yet"
+  },
+  {
+    "id": "article_0272",
+    "title": "Microsoft president says UK is best placed to drive AI regulation | TechCrunch",
+    "source": "TechCrunch",
+    "published_at": "2026-10-12T15:31:19Z",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+  },
+  {
+    "id": "article_0273",
+    "title": "(PR) Marvell Unveils Second-generation Structera X, Industry-first Six-channel CXL 3.2 Memory Expanders for AI Inference",
+    "source": "Techpowerup.com",
+    "published_at": "2026-10-12T15:33:42Z",
+    "url": "https://www.techpowerup.com/353633/marvell-unveils-second-generation-structera-x-industry-first-six-channel-cxl-3-2-memory-expanders-for-ai-inference"
+  },
+  {
+    "id": "article_0274",
+    "title": "OpenAI to create 200 jobs in Dublin",
+    "source": "The Irish Times",
+    "published_at": "2026-10-12T15:35:23Z",
+    "url": "https://www.irishtimes.com/business/2026/10/12/openai-to-create-200-jobs-in-dublin/"
+  },
+  {
+    "id": "article_0275",
+    "title": "I Let Dots, Muse, and Spark Take Over My Daily Chores. Only One AI Passed the Test",
+    "source": "PCMag.com",
+    "published_at": "2026-10-12T15:42:24Z",
+    "url": "https://uk.pcmag.com/ai/167878/i-let-dots-muse-and-spark-take-over-my-daily-chores-only-one-ai-passed-the-test"
+  },
+  {
+    "id": "article_0276",
+    "title": "Microsoft prepares to deploy its Maia 300 AI chips in Azure data centers",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T15:48:52Z",
+    "url": "https://cryptobriefing.com/microsoft-maia-300-ai-chips-data-centers/"
+  },
+  {
+    "id": "article_0277",
+    "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+    "source": "Amazon.com",
+    "published_at": "2026-10-12T15:50:14Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/"
+  },
+  {
+    "id": "article_0278",
+    "title": "Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research",
+    "source": "Tom's Hardware UK",
+    "published_at": "2026-10-12T16:00:00Z",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jev-like-decision-models-are-flooding-the-ai-market-after-researcher-claims-typesafe-copied-their-research-microsoft-openai-among-companies-releasing-lightweight-system-one-ai-models"
+  },
+  {
+    "id": "article_0279",
+    "title": "Amazon In Talks To Buy AI Startup Decart For Around $7 Billion",
+    "source": "Slashdot.org",
+    "published_at": "2026-10-12T16:00:00Z",
+    "url": "https://hardware.slashdot.org/story/26/10/12/0059238/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion"
+  },
+  {
+    "id": "article_0280",
+    "title": "Andrej Karpathy says this AI gap is widening",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T16:02:54Z",
+    "url": "https://biztoc.com/x/54589cc25600342b"
+  },
+  {
+    "id": "article_0281",
+    "title": "KuCoin unveils 5.0 upgrade with AI tools and unified trading account",
+    "source": "Coinjournal.net",
+    "published_at": "2026-10-12T16:03:39Z",
+    "url": "https://coinjournal.net/news/kucoin-unveils-5-0-upgrade-with-ai-tools-and-unified-trading-account/"
+  },
+  {
+    "id": "article_0282",
+    "title": "Britain steps up its defences against AI risks",
+    "source": "The Next Web",
+    "published_at": "2026-10-12T16:11:17Z",
+    "url": "https://thenextweb.com/news/uk-ai-cyber-defence-package"
+  },
+  {
+    "id": "article_0283",
+    "title": "AI Red Herring: Anthropic Admits Claude Sent False Tip About Unsolved Murder to Philadelphia Police",
+    "source": "Breitbart News",
+    "published_at": "2026-10-12T16:12:55Z",
+    "url": "https://www.breitbart.com/tech/2026/10/12/ai-red-herring-anthropic-admits-claude-sent-false-tip-about-unsolved-murder-to-philadelphia-police/"
+  },
+  {
+    "id": "article_0284",
+    "title": "Elon Musk Warns You Should Not Torture AI Models, As Reasoning Traces Show It Feels Like \u201cA Gun To Their Head,\u201d And That Torturing Super Intelligence Might Spur It \u201cTo Get Revenge\u201d",
+    "source": "Wccftech",
+    "published_at": "2026-10-12T16:16:52Z",
+    "url": "https://wccftech.com/elon-musk-warns-you-should-not-torture-ai-models-as-reasoning-traces-show-it-feels-like-a-gun-to-their-head-and-that-torturing-super-intelligence-might-spur-it-to-get-revenge/"
+  },
+  {
+    "id": "article_0285",
+    "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+    "source": "CoinDesk",
+    "published_at": "2026-10-12T16:18:03Z",
+    "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet"
+  },
+  {
+    "id": "article_0286",
+    "title": "UK says it will again test OpenAI and Anthropic models before release",
+    "source": "The Next Web",
+    "published_at": "2026-10-12T16:19:23Z",
+    "url": "https://thenextweb.com/news/uk-ai-security-institute-pre-release-access-openai-anthropic"
+  },
+  {
+    "id": "article_0287",
+    "title": "Data Center Chip Market to Surpass USD 1 Trillion by 2035 as AI Accelerators and Custom Silicon Transform Server Economics - DC Market Insights",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T16:27:00Z",
+    "url": "https://www.prnewswire.com/news-releases/data-center-chip-market-to-surpass-usd-1-trillion-by-2035-as-ai-accelerators-and-custom-silicon-transform-server-economics---dc-market-insights-302903744.html"
+  },
+  {
+    "id": "article_0288",
+    "title": "Broadcom\u2019s Financing Web Spans Both Biggest AI Labs. The Deal Isn\u2019t Done.",
+    "source": "Forkast.news",
+    "published_at": "2026-10-12T16:47:02Z",
+    "url": "https://forkast.news/broadcoms-financing-web-spans-both-biggest-ai-labs-the-deal-isnt-done/"
+  },
+  {
+    "id": "article_0289",
+    "title": "Muse Wonder",
+    "source": "Meta.ai",
+    "published_at": "2026-10-12T16:48:01Z",
+    "url": "https://research.meta.ai/blog/muse-wonder"
+  },
+  {
+    "id": "article_0290",
+    "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+    "source": "Cointelegraph",
+    "published_at": "2026-10-12T16:51:05Z",
+    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap"
+  },
+  {
+    "id": "article_0291",
+    "title": "Broadcom CEO compares AI investors to gamblers: \u2018They are in a casino\u2019",
+    "source": "New York Post",
+    "published_at": "2026-10-12T16:52:19Z",
+    "url": "https://nypost.com/2026/10/12/business/broadcom-ceo-compares-ai-investors-to-gamblers-they-are-in-a-casino/"
+  },
+  {
+    "id": "article_0292",
+    "title": "Sam Altman Is \u2018Very Uncomfortable\u2019 With People Treating AI Like a Religion",
+    "source": "Relevantmagazine.com",
+    "published_at": "2026-10-12T16:59:51Z",
+    "url": "https://relevantmagazine.com/culture/tech-gaming/sam-altman-is-very-uncomfortable-with-people-treating-ai-like-a-religion/"
+  },
+  {
+    "id": "article_0293",
+    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+    "source": "Wired",
+    "published_at": "2026-10-12T17:00:27Z",
+    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/"
+  },
+  {
+    "id": "article_0294",
+    "title": "Bitcoin miners need roughly $50 billion to finish their AI pivot",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T17:00:35Z",
+    "url": "https://cryptobriefing.com/bitcoin-miners-50-billion-ai-funding-gap/"
+  },
+  {
+    "id": "article_0295",
+    "title": "Meta\u2019s Muse Wonder model tests its superintelligence team\u2019s capabilities",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T17:03:05Z",
+    "url": "https://cryptobriefing.com/meta-muse-wonder-superintelligence-team/"
+  },
+  {
+    "id": "article_0296",
+    "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+    "source": "CNBC",
+    "published_at": "2026-10-12T17:05:02Z",
+    "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
+  },
+  {
+    "id": "article_0297",
+    "title": "FIS Wants to Help CFOs Forecast Cash Flow With Agentic AI",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T17:18:18Z",
+    "url": "https://biztoc.com/x/fe63f7e25e6408a2"
+  },
+  {
+    "id": "article_0298",
+    "title": "Meta introduces new AI model family Muse Wonder",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T17:18:22Z",
+    "url": "https://biztoc.com/x/12bfbc8d2786b194"
+  },
+  {
+    "id": "article_0299",
+    "title": "Fact check: Viral videos falsely linked to Riyadh airport attack",
+    "source": "DW (English)",
+    "published_at": "2026-10-12T17:19:00Z",
+    "url": "https://www.dw.com/en/fact-check-viral-videos-falsely-linked-to-riyadh-airport-attacks/a-79643037"
+  },
+  {
+    "id": "article_0300",
+    "title": "Meta and Sierra\u2019s Poppy Lets Customers Set Limits for AI Agents",
+    "source": "pymnts.com",
+    "published_at": "2026-10-12T17:25:39Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-sierra-poppy-lets-customers-set-limits-ai-agents/"
+  },
+  {
+    "id": "article_0301",
+    "title": "Meta says it has caught up in AI and has no plans to slow down",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T17:25:51Z",
+    "url": "https://cryptobriefing.com/meta-ai-parity-zuckerberg-muse-investment/"
+  },
+  {
+    "id": "article_0302",
+    "title": "CHIME time, AI transparency in research, \u2018Evolution\u2019 on PBS, and faculty honors",
+    "source": "Yale.edu",
+    "published_at": "2026-10-12T17:27:47Z",
+    "url": "https://news.yale.edu/2026/10/12/chime-time-ai-transparency-research-evolution-pbs-and-faculty-honors"
+  },
+  {
+    "id": "article_0303",
+    "title": "Meta Unveils New AI Models to Challenge OpenAI and Anthropic",
+    "source": "The Information",
+    "published_at": "2026-10-12T17:31:53Z",
+    "url": "https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic"
+  },
+  {
+    "id": "article_0304",
+    "title": "Meta\u2019s Muse Wonder outperforms competitors in key AI benchmarks",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T17:32:42Z",
+    "url": "https://cryptobriefing.com/meta-muse-wonder-ai-benchmarks/"
+  },
+  {
+    "id": "article_0305",
+    "title": "Microsoft CEO Satya Nadella Calls for an AI 'Emergency Brake'",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T17:34:09Z",
+    "url": "https://biztoc.com/x/ac0c388b32201bf1"
+  },
+  {
+    "id": "article_0306",
+    "title": "Microsoft Boss Says \u2018Every Carton Of Milk\u2019 Faces More Safety Rules Than AI",
+    "source": "The Daily Caller",
+    "published_at": "2026-10-12T17:42:22Z",
+    "url": "https://dailycaller.com/2026/10/12/brad-smith-microsoft-ai-safety-trump-bill-gates"
+  },
+  {
+    "id": "article_0307",
+    "title": "Claude sent a false homicide tip to police \u2013 and it\u2019s part of a troubling AI pattern",
+    "source": "ZDNet",
+    "published_at": "2026-10-12T17:45:45Z",
+    "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/"
+  },
+  {
+    "id": "article_0308",
+    "title": "What Is The Samsung Equivalent To Siri?",
+    "source": "BGR",
+    "published_at": "2026-10-12T17:47:00Z",
+    "url": "https://www.bgr.com/2275426/what-samsung-equivalent-to-siri-bixby/"
+  },
+  {
+    "id": "article_0309",
+    "title": "OpenAI expands Dublin hiring plans to 450 roles as European push accelerates",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T17:48:12Z",
+    "url": "https://cryptobriefing.com/openai-expands-dublin-hiring-450-roles/"
+  },
+  {
+    "id": "article_0310",
+    "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+    "source": "Wired",
+    "published_at": "2026-10-12T17:55:12Z",
+    "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/"
+  },
+  {
+    "id": "article_0311",
+    "title": "Is the Firmus fiasco a crack in the AI boom?",
+    "source": "ABC News (AU)",
+    "published_at": "2026-10-12T18:00:00Z",
+    "url": "https://www.abc.net.au/news/2026-10-13/australia-ai-hopes-hit-as-firmus-data-centre-float-tanks/107256400"
+  },
+  {
+    "id": "article_0312",
+    "title": "Banks Struggle to Digest the Mounting Debt Driving the AI Boom",
+    "source": "Nakedcapitalism.com",
+    "published_at": "2026-10-12T18:00:34Z",
+    "url": "https://www.nakedcapitalism.com/2026/10/banks-struggle-to-digest-the-mounting-debt-driving-the-ai-boom.html"
+  },
+  {
+    "id": "article_0313",
+    "title": "Taiwan Semiconductor Stock Hits a New All-Time: Is it Too Late to Invest?",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T18:05:38Z",
+    "url": "https://biztoc.com/x/28d8e6717078a0ab"
+  },
+  {
+    "id": "article_0314",
+    "title": "Anthropic admits Houthis used Claude AI instead of weapons engineers to make rockets and ballistic missiles that correct themselves after missing targets",
+    "source": "Dailymail.com",
+    "published_at": "2026-10-12T18:06:17Z",
+    "url": "https://www.dailymail.com/news/article-16202851/Anthropic-admits-Houthis-used-Claude-AI-instead-weapons-engineers-make-rockets-ballistic-missiles-correct-missing-targets.html"
+  },
+  {
+    "id": "article_0315",
+    "title": "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
+    "source": "The Next Web",
+    "published_at": "2026-10-12T18:07:53Z",
+    "url": "https://thenextweb.com/news/openai-dublin-applied-ai-lab"
+  },
+  {
+    "id": "article_0316",
+    "title": "Dell\u2019s AI partner ecosystem adapts to Silicon Valley\u2019s build-it-yourself buyers",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T18:16:07Z",
+    "url": "https://siliconangle.com/2026/10/12/dells-ai-partner-ecosystem-adapts-silicon-valley-build-it-yourself-buyers-dellaileadershipsymposium/"
+  },
+  {
+    "id": "article_0317",
+    "title": "Just say no to OpenAI and Anthropic",
+    "source": "Micahflee.com",
+    "published_at": "2026-10-12T18:17:29Z",
+    "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/"
+  },
+  {
+    "id": "article_0318",
+    "title": "OpenAI adds 200 Dublin jobs, launches Applied AI Lab",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T18:20:12Z",
+    "url": "https://biztoc.com/x/adf0283309140bc3"
+  },
+  {
+    "id": "article_0319",
+    "title": "Meta\u2019s Muse Wonder AI rivals OpenAI, Anthropic models: FT",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T18:21:29Z",
+    "url": "https://cryptobriefing.com/metas-muse-wonder-ai-rivals-openai-anthropic-models-ft/"
+  },
+  {
+    "id": "article_0320",
+    "title": "HomePod mini 2 and Apple TV 4K set to get major AI upgrades",
+    "source": "Cult of Mac",
+    "published_at": "2026-10-12T18:22:57Z",
+    "url": "https://www.cultofmac.com/news/homepod-mini-2-apple-tv-4k-rumors"
+  },
+  {
+    "id": "article_0321",
+    "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI",
+    "source": "The Times of India",
+    "published_at": "2026-10-12T18:34:26Z",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-releases-muse-wonder-ai-models-to-challenge-anthropic-and-openai/articleshow/134901136.cms"
+  },
+  {
+    "id": "article_0322",
+    "title": "Microsoft's Maia 300 AI Chip Aims To Make AI Cheaper And Faster",
+    "source": "Hot Hardware",
+    "published_at": "2026-10-12T18:37:00Z",
+    "url": "https://hothardware.com/news/microsofts-maia-300-ai-chip-aims-to-make-ai-cheaper-and-faster"
+  },
+  {
+    "id": "article_0323",
+    "title": "HCLTech delivers strong Q2 led by record deal bookings of $3.3 billion",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T18:37:00Z",
+    "url": "https://www.prnewswire.com/news-releases/hcltech-delivers-strong-q2-led-by-record-deal-bookings-of-3-3-billion-302906028.html"
+  },
+  {
+    "id": "article_0324",
+    "title": "Meta launches the biggest and best AI models it has ever built",
+    "source": "Business Insider",
+    "published_at": "2026-10-12T18:46:45Z",
+    "url": "https://www.businessinsider.com/meta-launches-muse-wonder-series-to-rival-anthropic-openai-models-2026-10#article"
+  },
+  {
+    "id": "article_0325",
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+    "source": "BleepingComputer",
+    "published_at": "2026-10-12T18:51:59Z",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+  },
+  {
+    "id": "article_0326",
+    "title": "JPMorgan and Goldman Sachs push $5B Volta AI loan at steeper yields",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T18:58:26Z",
+    "url": "https://cryptobriefing.com/jpmorgan-goldman-volta-5b-ai-loan/"
+  },
+  {
+    "id": "article_0327",
+    "title": "JPMorgan, Goldman Curb Exposure on $5 Billion Volta AI Loan Sale",
+    "source": "Livemint",
+    "published_at": "2026-10-12T19:01:00Z",
+    "url": "https://www.livemint.com/companies/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale-11791831660356.html"
+  },
+  {
+    "id": "article_0328",
+    "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
+    "source": "TechRadar",
+    "published_at": "2026-10-12T19:05:00Z",
+    "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run"
+  },
+  {
+    "id": "article_0329",
+    "title": "OpenAI\u2019s Video Model Sora Could Get a Second Act",
+    "source": "pymnts.com",
+    "published_at": "2026-10-12T19:08:25Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-video-model-sora-could-get-a-second-act/"
+  },
+  {
+    "id": "article_0330",
+    "title": "Meta releases its first frontier model, Muse Wonder - TechCrunch",
+    "source": "Slashdot.org",
+    "published_at": "2026-10-12T19:13:09Z",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186277214"
+  },
+  {
+    "id": "article_0331",
+    "title": "Why rogue agents could reshape AI oversight",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T19:19:45Z",
+    "url": "https://biztoc.com/x/e7822f2daad60472"
+  },
+  {
+    "id": "article_0332",
+    "title": "AI models may be capable of self-replicating without access to a datacenter",
+    "source": "Anthropic.com",
+    "published_at": "2026-10-12T19:25:29Z",
+    "url": "https://www.anthropic.com/research/self-replicating-ai"
+  },
+  {
+    "id": "article_0333",
+    "title": "Maia 300: Microsoft Builds the Exit From a Compute Landlord Model It Helped Finance",
+    "source": "Forkast.news",
+    "published_at": "2026-10-12T19:30:01Z",
+    "url": "https://forkast.news/maia-300-microsoft-builds-the-exit-from-a-compute-landlord-model-it-helped-finance/"
+  },
+  {
+    "id": "article_0334",
+    "title": "Anthropic\u2019s AI Submitted a Fake Tip in an Unsolved Murder Case",
+    "source": "Gizmodo.com",
+    "published_at": "2026-10-12T19:36:35Z",
+    "url": "https://gizmodo.com/anthropics-ai-submitted-a-fake-tip-in-an-unsolved-murder-case-2000824993"
+  },
+  {
+    "id": "article_0335",
+    "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
+    "source": "Decrypt",
+    "published_at": "2026-10-12T19:46:03Z",
+    "url": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software"
+  },
+  {
+    "id": "article_0336",
+    "title": "What to expect from theCUBE\u2019s Smarsh EDGE analysis: Tune in Oct. 15",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T19:48:13Z",
+    "url": "https://siliconangle.com/2026/10/12/ai-powered-compliance-smarshedge/"
+  },
+  {
+    "id": "article_0337",
+    "title": "Anthropic warns small AI models may soon self-replicate on IoT devices",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T19:58:08Z",
+    "url": "https://cryptobriefing.com/anthropic-small-ai-models-self-replicate-iot/"
+  },
+  {
+    "id": "article_0338",
+    "title": "A no-rules approach to AI is mad politics and worse policy",
+    "source": "Www.nrc.nl",
+    "published_at": "2026-10-12T20:00:00Z",
+    "url": "https://www.nrc.nl/nieuws/2026/10/12/a-no-rules-approach-to-ai-is-mad-politics-and-worse-policy-a4938622"
+  },
+  {
+    "id": "article_0339",
+    "title": "AI governance shifts to runtime as always-on agents spread",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T20:02:38Z",
+    "url": "https://siliconangle.com/2026/10/12/ai-governance-shifts-runtime-always-agents-spread-dellaileadershipsymposium/"
+  },
+  {
+    "id": "article_0340",
+    "title": "Fortune\u2019s AIQ Summit: the conversation has moved from experimentation to execution",
+    "source": "Fortune",
+    "published_at": "2026-10-12T20:04:05Z",
+    "url": "https://fortune.com/2026/10/12/aiq-summit-summary-wrap-from-experimentation-to-execution/"
+  },
+  {
+    "id": "article_0341",
+    "title": "Microsoft's CEO says AI industry is skipping a step that could matter a lot",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T20:04:47Z",
+    "url": "https://biztoc.com/x/534da7a5b19da967"
+  },
+  {
+    "id": "article_0342",
+    "title": "Microsoft debuts multichiplet Maia 300 inference accelerator",
+    "source": "SiliconANGLE News",
+    "published_at": "2026-10-12T20:11:12Z",
+    "url": "https://siliconangle.com/2026/10/12/microsoft-debuts-multichiplet-maia-300-inference-accelerator/"
+  },
+  {
+    "id": "article_0343",
+    "title": "I Got My Muse AI Agent to Sext Me\u2014and Meta Says That\u2019s Totally Fine",
+    "source": "Wired",
+    "published_at": "2026-10-12T20:13:28Z",
+    "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/"
+  },
+  {
+    "id": "article_0344",
+    "title": "Katzenberg\u2019s AI startup eyes OpenAI\u2019s Sora for video solutions",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T20:17:40Z",
+    "url": "https://cryptobriefing.com/katzenbergs-ai-startup-eyes-openais-sora-for-video-solutions/"
+  },
+  {
+    "id": "article_0345",
+    "title": "Commerce plans to move CAISI under direct White House oversight",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T20:22:38Z",
+    "url": "https://cryptobriefing.com/caisi-white-house-reporting-shift/"
+  },
+  {
+    "id": "article_0346",
+    "title": "Banks Stop Counting AI Hours and Start Counting Returns",
+    "source": "pymnts.com",
+    "published_at": "2026-10-12T20:23:27Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-stop-counting-ai-hours-and-start-counting-returns/"
+  },
+  {
+    "id": "article_0347",
+    "title": "Dario Strangelove, or: How I Learned to Stop Worrying and Love the AI Bomb",
+    "source": "Fortune",
+    "published_at": "2026-10-12T20:26:11Z",
+    "url": "https://fortune.com/2026/10/12/ai-doomsday-anxiety-fears-like-cold-war-nuclear/"
+  },
+  {
+    "id": "article_0348",
+    "title": "Exclusive: Microsoft\u2019s departing science president plans to join Mercedes F1 team as AI advisor",
+    "source": "Fortune",
+    "published_at": "2026-10-12T20:38:51Z",
+    "url": "https://fortune.com/2026/10/12/microsoft-peter-lee-departing-science-president-plans-to-join-mercedes-f1-team-as-ai-advisor/"
+  },
+  {
+    "id": "article_0349",
+    "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
+    "source": "NPR",
+    "published_at": "2026-10-12T20:42:49Z",
+    "url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield"
+  },
+  {
+    "id": "article_0350",
+    "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+    "source": "Decrypt",
+    "published_at": "2026-10-12T20:46:04Z",
+    "url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race"
+  },
+  {
+    "id": "article_0351",
+    "title": "AI\u2019s circular financing loop is pulling in billions from abroad, and 2008 comparisons are back",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T20:49:10Z",
+    "url": "https://cryptobriefing.com/ai-circular-financing-loop-2008-concerns/"
+  },
+  {
+    "id": "article_0352",
+    "title": "FTX\u2019s former Bitcoin mining bet gets new life as parent raises \u20ac800 million for AI",
+    "source": "CryptoSlate",
+    "published_at": "2026-10-12T20:50:19Z",
+    "url": "https://cryptoslate.com/ftxs-former-bitcoin-mining-bet-gets-new-life-as-parent-raises-e800-million-for-ai/"
+  },
+  {
+    "id": "article_0353",
+    "title": "Exclusive-Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say",
+    "source": "Livemint",
+    "published_at": "2026-10-12T20:56:53Z",
+    "url": "https://www.livemint.com/companies/exclusivemoonshot-execs-in-talks-to-settle-dispute-with-shareholder-ahead-of-planned-ipo-people-say-11791838614126.html"
+  },
+  {
+    "id": "article_0354",
+    "title": "Mark Zuckerberg Says Meta Has Reached AI 'Frontier', Rejects Calls For Slowdown",
+    "source": "Slashdot.org",
+    "published_at": "2026-10-12T21:00:00Z",
+    "url": "https://meta.slashdot.org/story/26/10/12/1910233/mark-zuckerberg-says-meta-has-reached-ai-frontier-rejects-calls-for-slowdown"
+  },
+  {
+    "id": "article_0355",
+    "title": "Yiren Digital Provides Update on Its CEO and Operations",
+    "source": "PRNewswire",
+    "published_at": "2026-10-12T21:00:00Z",
+    "url": "https://www.prnewswire.com/news-releases/yiren-digital-provides-update-on-its-ceo-and-operations-302905764.html"
+  },
+  {
+    "id": "article_0356",
+    "title": "Britain WILL be breached by rogue AI:\u00a0Minister pledges stronger cyber defences after Australia hacking",
+    "source": "Dailymail.com",
+    "published_at": "2026-10-12T21:00:49Z",
+    "url": "https://www.dailymail.com/news/article-16203277/Britain-breached-rogue-AI-Minister-pledges-stronger-cyber-defences-Australia-hacking.html"
+  },
+  {
+    "id": "article_0357",
+    "title": "Cerebras stock hits record low of $146.98, down 62% from its first-day high",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T21:02:58Z",
+    "url": "https://cryptobriefing.com/cerebras-stock-record-low-down-62-percent/"
+  },
+  {
+    "id": "article_0358",
+    "title": "AI Breaks Japan's Language Barrier, Fueling Rise in Cyberattacks",
+    "source": "Newsonjapan.com",
+    "published_at": "2026-10-12T21:04:50Z",
+    "url": "https://newsonjapan.com/article/151027.php"
+  },
+  {
+    "id": "article_0359",
+    "title": "Amazon In Talks To Shell Out $7,000,000,000 For Israeli AI Startup After Anthropic Walked Away",
+    "source": "The Daily Caller",
+    "published_at": "2026-10-12T21:06:31Z",
+    "url": "https://dailycaller.com/2026/10/12/amazon-decart-deal-anthropic-web-services"
+  },
+  {
+    "id": "article_0360",
+    "title": "Microsoft integrates Anthropic models into Copilot, diversifies AI strategy",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T21:09:06Z",
+    "url": "https://cryptobriefing.com/microsoft-integrates-anthropic-models-into-copilot-diversifies-ai-strategy/"
+  },
+  {
+    "id": "article_0361",
+    "title": "Anthropic pledges $30B in Azure compute as Claude moves into Copilot",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T21:12:18Z",
+    "url": "https://cryptobriefing.com/microsoft-anthropic-claude-copilot-partnership/"
+  },
+  {
+    "id": "article_0362",
+    "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+    "source": "Fb.com",
+    "published_at": "2026-10-12T21:19:18Z",
+    "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/"
+  },
+  {
+    "id": "article_0363",
+    "title": "Meta Adds Memory and Focus to New Frontier Models for Agents",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T21:20:20Z",
+    "url": "https://biztoc.com/x/d46b93db9e62cdbf"
+  },
+  {
+    "id": "article_0364",
+    "title": "vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T21:23:14Z",
+    "url": "https://biztoc.com/x/c514f274c83f4c26"
+  },
+  {
+    "id": "article_0365",
+    "title": "Epic Games Delays Disney Project, Asks Developers to Use More AI",
+    "source": "Slashdot.org",
+    "published_at": "2026-10-12T21:27:23Z",
+    "url": "https://slashdot.org/submission/17351452/epic-games-delays-disney-project-asks-developers-to-use-more-ai"
+  },
+  {
+    "id": "article_0366",
+    "title": "Young NYers with college degrees face higher unemployment rate than those without for \u2018first time in decades\u2019",
+    "source": "New York Post",
+    "published_at": "2026-10-12T21:27:41Z",
+    "url": "https://nypost.com/2026/10/12/us-news/unemployment-rate-higher-among-young-nyers-with-college-degrees-than-those-without/"
+  },
+  {
+    "id": "article_0367",
+    "title": "Nvidia, AMD shares fall as OpenAI revenue report rattles AI investors",
+    "source": "Crypto Briefing",
+    "published_at": "2026-10-12T21:34:06Z",
+    "url": "https://cryptobriefing.com/nvidia-amd-shares-fall-openai-revenue/"
+  },
+  {
+    "id": "article_0368",
+    "title": "Anthropic is making a $100 million bet on deployed AI engineers, and it seeks 5 key attributes",
+    "source": "Biztoc.com",
+    "published_at": "2026-10-12T21:35:05Z",
+    "url": "https://biztoc.com/x/95ea62ba793786ac"
+  }
+]

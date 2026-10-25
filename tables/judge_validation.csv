@@ -1,0 +1,12 @@
+pipeline,batch,group,n,accuracy_pct
+CAG,week1,source in context,54,92.6
+RAG,week1,source retrieved,52,92.3
+RAG,week1,source not retrieved,2,0.0
+CAG,week2,source in context,80,91.2
+CAG,week2,source cut off,55,3.6
+RAG,week2,source retrieved,132,93.2
+RAG,week2,source not retrieved,3,33.3
+CAG,week3,source in context,80,91.2
+CAG,week3,source cut off,590,1.9
+RAG,week3,source retrieved,649,94.6
+RAG,week3,source not retrieved,21,23.8

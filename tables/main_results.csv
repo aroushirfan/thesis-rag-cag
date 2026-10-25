@@ -1,0 +1,7 @@
+batch,corpus_articles,pipeline,n_questions,correct,accuracy_pct,ci95_low_pct,ci95_high_pct,factual_pct,reasoning_pct
+week1,30,RAG,54,48,88.9,77.8,94.8,85.2,92.6
+week1,30,CAG,54,50,92.6,82.4,97.1,96.3,88.9
+week2,75,RAG,135,124,91.9,86.0,95.4,92.3,91.4
+week2,75,CAG,135,75,55.6,47.1,63.7,61.5,50.0
+week3,369,RAG,670,619,92.4,90.1,94.2,92.3,92.5
+week3,369,CAG,670,84,12.5,10.2,15.3,12.8,12.3
